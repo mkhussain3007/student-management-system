@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="./StudentHome.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Antic+Slab&display=swap" rel="stylesheet">
+    <!--<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>-->
+    <style>
+        @media (max-width: 991.98px) {
+            .offcanvas-start {
+                width: 60% !important
+            }
+
+            #studentImage {
+                width: 30px;
+            }
+
+            #studentName {
+                font-size: medium;
+            }
+        }
+
+        nav {
+            background-color: black;
+        }
+
+        body {
+            font-family: 'Antic Slab', serif;
+        }
+        .circular-progress{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background: conic-gradient(#18cc21 3.6deg,#ededed 0deg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .circular-progress::before{
+    content: "";
+    position: absolute;
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    background-color: #fff;
+  }
+    </style>
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-light">
+        <div class="container-fluid">
+            <button class="navbar-toggler d-sm-none" type="button" data-bs-toggle="offcanvas"
+                data-bs-target="#offcanvasSidebar" aria-controls="offcanvasSidebar">
+                <span><i class="fa-solid fa-bars fs-4" style="color: #ffffff;"></i></span>
+            </button>
+            <a href="./StudentHome.html" class="homeIcon d-none d-sm-inline text-decoration-none text-white fs-4"><i
+                    class="fa-solid fa-house fs-2 me-4" style="color: #ffffff;"></i>VNR Vignana Jyothi Institute of
+                Engineering and Technology</a>
+            <div class="ms-auto">
+                <p class="navbar-brand text-white d-inline text-capitalize" id="studentName" href="#"></p>
+                <img src="" alt="" id="studentImage" class="rounded-circle" width="35px">
+            </div>
+
+        </div>
+    </nav>
+    <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasSidebar" aria-labelledby="offcanvasSidebarLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasSidebarLabel">Menu</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <ul class="nav flex-column">
+                <li class="nav-item">
+                    <a class="nav-link" href="#" id="profile-link-mobile">Profile</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" id="attendance-link-mobile">Attendance</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" id="courses-link-mobile">Courses</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" id="results-link-mobile">Results</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <!--Main Content-->
+    <div class="row">
+        <div class="col d-none d-sm-inline col-sm-3 col-md-3 col-lg-2" id="leftCol"
+            style="background-color: black; min-height: 100vh;">
+            <ul style="list-style-type: none; border-top: #ffffff 2px solid;">
+                <li class="mb-1 mt-2"><i class="fa-solid fa-user me-2" style="color: #ffffff;"></i><a href="#"
+                        class="text-decoration-none text-white fs-5" id="profile-link">Profile</a></li>
+                <li class="mb-1"><i class="fa-regular fa-calendar-check me-2" style="color: #ffffff;"></i><a href="#"
+                        class="text-decoration-none text-white fs-5" id="attendance-link">Attendance</a></li>
+                <li class="mb-1"><i class="fa-solid fa-book me-2" style="color: #ffffff;"></i><a href="#"
+                        class="text-decoration-none text-white fs-5" id="courses-link">Courses</a></li>
+                <li class="mb-1"><i class="fa-solid fa-square-poll-vertical me-2" style="color: #ffffff"></i><a href="#"
+                        class="text-decoration-none text-white fs-5" id="results-link">Results</a></li>
+            </ul>
+        </div>
+        <div class="col col-sm-9 col-md-9 col-lg-10" id="content">
+            <div class="d-flex flex-wrap border shadow p-3 my-4 rounded justify-content-center">
+                <h4 class="fw-bold my-auto">Next Period : </h4>
+                <h5 class="my-auto ms-3">Web Technologies (A19PC1IT05)</h5>
+                <h4 class="my-auto ms-3 fw-bold">Faculty : <span class="fw-normal fs-5"> Dr.G.Rajesh Kumar</span></h4>
+            </div>
+            <div class="d-flex flex-wrap justify-content-evenly ">
+                <div>
+                    <h1 class="mt-1 mb-3">Curent Courses</h1>
+                    <table class="table text-center border  d-inline w-25">
+                        <thead class="table-dark">
+                            <tr>
+                                <th scope="col">CourseId</th>
+                                <th scope="col">Course Name</th>
+                            </tr>
+                        </thead>
+                        <tbody class="c32">
+
+                        </tbody>
+                    </table>
+                </div>
+                <div class="d-flex my-auto border shadow p-4 border-black border-1 rounded">
+                    <div class="circular-progress me-4">
+                        <div class="progress-value position-relative fs-2 fw-bold">0%</div>
+                    </div>
+                    <div class="card border shadow px-4 py-2 my-auto">
+                        <h4 class="studentAttended"></h4>
+                        <h4 class="studentConducted">Classes Conducted : </h4>
+                    </div>
+                </div>
+
+            </div>
+            <hr>
+            <div class="mt-4 mb-5">
+                <h1 class="mb-3">Analysis</h1>
+                <div class="d-flex flex-wrap justify-content-evenly">
+                    <div class="card border shadow px-4 py-2 my-auto">
+                        <h4 class="my-auto">Classes Remaining : <span class="fs-6 studentRemainingClasses fs-6"></span>
+                        </h4>
+                        <h4 class="my-auto">Total Classes : <span class="studentTotalClasses fs-6"></span></h4>
+                    </div>
+                    <div class="card border shadow px-4 py-2 my-auto">
+                        <h4>Current Progress : </h4>
+                        <span class="currentProgress"></span>
+                    </div>
+                    <div class="card border shadow px-4 py-2 my-auto">
+                        <h4>Complete Progress : </h4>
+                        <span class="completeProgress"></span>
+                    </div>
+                    <div class="card border shadow px-4 py-2 my-auto">
+                        <h4>Half-progress : </h4>
+                        <span class="halfProgress"></span>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <h1 class="text-align-center mt-3 mb-3">Attendance</h1>
+            <table class="table text-center border mx-auto">
+                <thead class="table-dark">
+                    <tr>
+                        <th scope="col">CourseId</th>
+                        <th scope="col">Course Name</th>
+                        <th scope="col">Classes Attended</th>
+                        <th scope="col">Total Classes</th>
+                        <th scope="col">Attendance Percentage</th>
+                    </tr>
+                </thead>
+                <tbody class="a32">
+
+                </tbody>
+            </table>
+
+
+        </div>
+    </div>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script type="module" src="./Student.js" defer></script>
+</body>
+
+</html>

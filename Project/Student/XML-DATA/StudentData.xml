@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+  <id>21071A12G8</id>
+  <name>MOHAMMAD KHADIM HUSSAIN</name>
+	<fatherName>MIRZA VAZEER HUSSAIN</fatherName>
+	<motherName>null</motherName>
+	<address>H.NO:1-127, MAIN ROAD, NEAR MOSQUE, MAMIDIKURU, EAST GODAVARI, ANDHRAPRADESH-533247</address>
+	<parentNo>9866693393</parentNo>
+	<studentNo>8019738132</studentNo>
+	<email>mkhussain3007@gmail.com</email>
+ <branchName>Information Technology</branchName>
+  <branchId>IT</branchId>
+</student>

@@ -1,0 +1,25 @@
+/* .login{
+    height: 100vh;
+}
+@media screen and (max-width:992px){
+    .left-col{
+        display: none;
+    }
+    .right-col{
+        display: block;
+        margin: auto;
+        width: 75%;
+    }
+}
+@media screen and (max-width:572px) {
+    .right-col{
+        width: 100%;
+    }
+    form{
+       padding:10px ; 
+    }
+    
+} 
+body{
+    font-family: 'Black Han Sans', sans-serif;
+ } */

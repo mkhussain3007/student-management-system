@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+	<semester id="1">
+		<courseId>A19ES2EE01</courseId>
+		<courseName>	BASIC ELECTRICAL ENGINEERING LABORATORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>APR-2022</enrollmentDate>
+		<enrollmentId>12G8_A19ES2EE01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>1</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="1">
+		<courseId>A19BS1MT01</courseId>
+		<courseName>CALCULUS FOR ENGINEERS</courseName>
+		<grade>O</grade>
+		<enrollmentDate>APR-2022</enrollmentDate>
+		<enrollmentId>12G8_A19BS1MT01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>4</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="1">
+		<courseId>A19ES1EE01</courseId>
+		<courseName>	BASICS OF ELECTRICAL ENERGY FOR ENGINEERS</courseName>
+		<grade>O</grade>
+		<enrollmentDate>APR-2022</enrollmentDate>
+		<enrollmentId>12G8_A19ES1EE01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="1">
+		<courseId>A19ES3ME02</courseId>
+		<courseName>ENGINEERING DRAWING</courseName>
+		<grade>O</grade>
+		<enrollmentDate>APR-2022</enrollmentDate>
+		<enrollmentId>12G8_A19ES3ME02</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>2</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="1">
+		<courseId>A19ES2CS01</courseId>
+		<courseName>PROGRAMMING THROUGH C LABORATORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>APR-2022</enrollmentDate>
+		<enrollmentId>12G8_A19ES2CS01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>1</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="1">
+		<courseId>A19BS1PH02</courseId>
+		<courseName>ENGINEERING PHYSICS</courseName>
+		<grade>O</grade>
+		<enrollmentDate>APR-2022</enrollmentDate>
+		<enrollmentId>12G8_A19BS1PH02</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="1">
+		<courseId>A19PW4IT01</courseId>
+		<courseName>	DESIGN SENSITIZATION</courseName>
+		<grade>O</grade>
+		<enrollmentDate>APR-2022</enrollmentDate>
+		<enrollmentId>12G8_A19PW4IT01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>1</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="1">
+		<courseId>A19BS2PH02</courseId>
+		<courseName>	ENGINEERING PHYSICS LABORATORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>APR-2022</enrollmentDate>
+		<enrollmentId>12G8_A19BS2PH02</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>1</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="1">
+		<courseId>A19ES1CS01</courseId>
+		<courseName>	PROGRAMMING THROUGH C</courseName>
+		<grade>O</grade>
+		<enrollmentDate>APR-2022</enrollmentDate>
+		<enrollmentId>12G8_A19ES1CS01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="2">
+		<courseId>A19BS1MT04</courseId>
+		<courseName>LINEAR ALGEBRA AND ADVANCED CALCULUS</courseName>
+		<grade>O</grade>
+		<enrollmentDate>SEP-2022</enrollmentDate>
+		<enrollmentId>12G8_A19BS1MT04</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="2">
+		<courseId>A19BS1MT05</courseId>
+		<courseName>STATISTICAL METHODS FOR DATA ANALYSIS</courseName>
+		<grade>O</grade>
+		<enrollmentDate>SEP-2022</enrollmentDate>
+		<enrollmentId>12G8_A19BS1MT05</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>4</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="2">
+		<courseId>A19BS1CH01</courseId>
+		<courseName>ENGINEERING CHEMISTRY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>SEP-2022</enrollmentDate>
+		<enrollmentId>12G8_A19BS1CH01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="2">
+		<courseId>A19ES1IT01</courseId>
+		<courseName>DATA STRUCTURES</courseName>
+		<grade>O</grade>
+		<enrollmentDate>SEP-2022</enrollmentDate>
+		<enrollmentId>12G8_A19ES1IT01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="2">
+		<courseId>A19BS2CH01</courseId>
+		<courseName>ENGINEERING CHEMISTRY LABORATORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>SEP-2022</enrollmentDate>
+		<enrollmentId>12G8_A19BS2CH01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>1</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="2">
+		<courseId>A19ES2IT01</courseId>
+		<courseName>DATA STRUCTURES LABORATORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>SEP-2022</enrollmentDate>
+		<enrollmentId>12G8_A19ES2IT01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>1</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="2">
+		<courseId>A19ES2ME01</courseId>
+		<courseName>WORKSHOP PRACTICES</courseName>
+		<grade>O</grade>
+		<enrollmentDate>SEP-2022</enrollmentDate>
+		<enrollmentId>12G8_A19ES2ME01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>2</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="2">
+		<courseId>A19HS1EN01</courseId>
+		<courseName>ENGLISH</courseName>
+		<grade>O</grade>
+		<enrollmentDate>SEP-2022</enrollmentDate>
+		<enrollmentId>12G8_A19HS1EN01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="2">
+		<courseId>A19HS2EN01</courseId>
+		<courseName>ENGLISH LANGUAGE COMMUNICATION SKILLS LABORATORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>SEP-2022</enrollmentDate>
+		<enrollmentId>12G8_A19HS2EN01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>1</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="3">
+		<courseId>A19PC1CS02</courseId>
+		<courseName>MATHEMATICAL FOUNDATIONS FOR COMPUTER SCIENCE</courseName>
+		<grade>O</grade>
+		<enrollmentDate>FEB-2023</enrollmentDate>
+		<enrollmentId>12G8_A19PC1CS02</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="3">
+		<courseId>A19MN6HS02</courseId>
+		<courseName>ENVIRONMENTAL SCIENCE</courseName>
+		<grade>O</grade>
+		<enrollmentDate>FEB-2023</enrollmentDate>
+		<enrollmentId>12G8_A19MN6HS02</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>0</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="3">
+		<courseId>A19PC1CS04</courseId>
+		<courseName>DATABASE MANAGEMENT SYSTEMS</courseName>
+		<grade>O</grade>
+		<enrollmentDate>FEB-2023</enrollmentDate>
+		<enrollmentId>12G8_A19PC1CS04</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="3">
+		<courseId>A19PC1CS03</courseId>
+		<courseName>DESIGN AND ANALYSIS OF ALGORITHMS</courseName>
+		<grade>O</grade>
+		<enrollmentDate>FEB-2023</enrollmentDate>
+		<enrollmentId>12G8_A19PC1CS03</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="3">
+		<courseId>A19PC1CS01</courseId>
+		<courseName>DIGITAL LOGIC DESIGN</courseName>
+		<grade>O</grade>
+		<enrollmentDate>FEB-2023</enrollmentDate>
+		<enrollmentId>12G8_A19PC1CS01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="3">
+		<courseId>A19PC1IT01</courseId>
+		<courseName>OBJECT ORIENTED PROGRAMMING THROUGH C++</courseName>
+		<grade>O</grade>
+		<enrollmentDate>FEB-2023</enrollmentDate>
+		<enrollmentId>12G8_A19PC1IT01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="3">
+		<courseId>A19PC2CS01</courseId>
+		<courseName>DATABASE MANAGEMENT SYSTEMS LABORATORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>FEB-2023</enrollmentDate>
+		<enrollmentId>12G8_A19PC2CS01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>2</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="3">
+		<courseId>A19PC2IT01</courseId>
+		<courseName>OBJECT ORIENTED PROGRAMMING THROUGH C++ LABORATORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>FEB-2023</enrollmentDate>
+		<enrollmentId>12G8_A19PC2IT01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>2</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="3">
+		<courseId>A19PC2IT02</courseId>
+		<courseName>PYTHON PROGRAMMING LABORATORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>FEB-2023</enrollmentDate>
+		<enrollmentId>12G8_A19PC2IT02</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>1</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="4">
+		<courseId>A19BS1MT11</courseId>
+		<courseName>PROBABILITY, STATISTICS AND QUEUING THEORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>AUG-2023</enrollmentDate>
+		<enrollmentId>12G8_A19BS1MT11</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="4">
+		<courseId>A19PC1CS05</courseId>
+		<courseName>FORMAL LANGUAGES AND AUTOMATA THEORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>AUG-2023</enrollmentDate>
+		<enrollmentId>12G8_A19PC1CS05</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="4">
+		<courseId>A19PC1CS06</courseId>
+		<courseName>SOFTWARE ENGINEERING</courseName>
+		<grade>O</grade>
+		<enrollmentDate>AUG-2023</enrollmentDate>
+		<enrollmentId>12G8_A19PC1CS06</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="4">
+		<courseId>A19PC1IT02</courseId>
+		<courseName>JAVA PROGRAMMING</courseName>
+		<grade>O</grade>
+		<enrollmentDate>AUG-2023</enrollmentDate>
+		<enrollmentId>12G8_A19PC1IT02</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="4">
+		<courseId>A19PC1IT03</courseId>
+		<courseName>COMPUTER ORGANIZATION</courseName>
+		<grade>O</grade>
+		<enrollmentDate>AUG-2023</enrollmentDate>
+		<enrollmentId>12G8_A19PC1IT03</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="4">
+		<courseId>A19PC2CS02</courseId>
+		<courseName>SOFTWARE ENGINEERING LABORATORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>AUG-2023</enrollmentDate>
+		<enrollmentId>12G8_A19PC2CS02</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>2</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="4">
+		<courseId>A19PC2IT03</courseId>
+		<courseName>JAVA PROGRAMMING LABORATORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>AUG-2023</enrollmentDate>
+		<enrollmentId>12G8_A19PC2IT03</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>2</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="4">
+		<courseId>A19HS1MG02</courseId>
+		<courseName>ENGINEERING ECONOMICS AND ACCOUNTANCY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>AUG-2023</enrollmentDate>
+		<enrollmentId>12G8_A19HS1MG02</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="5">
+		<courseId>A19PC1CS07</courseId>
+		<courseName>COMPUTER NETWORKS	</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JAN-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PC1CS07</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="5">
+		<courseId>A19PC1CS08</courseId>
+		<courseName>COMPILER DESIGN</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JAN-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PC1CS08</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="5">
+		<courseId>A19PC2CS03</courseId>
+		<courseName>COMPUTER NETWORKS AND COMPILER DESIGN LABORATORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JAN-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PC2CS03</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>2</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="5">
+		<courseId>A19OE1EC01</courseId>
+		<courseName>SENSORS TRANSDUCERS AND ACTUATORS</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JAN-2024</enrollmentDate>
+		<enrollmentId>12G8_A19OE1EC01</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="5">
+		<courseId>A19MN6HS03</courseId>
+		<courseName>GENDER SENSITIZATION</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JAN-2024</enrollmentDate>
+		<enrollmentId>12G8_A19MN6HS03</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>0</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="5">
+		<courseId>A19HS2EN05</courseId>
+		<courseName>ADVANCED ENGLISH COMMUNICATION SKILLS LABORATORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JAN-2024</enrollmentDate>
+		<enrollmentId>12G8_A19HS2EN05</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>1</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="5">
+		<courseId>A19PC2IT04</courseId>
+		<courseName>	OPERATING SYSTEMS LABORATORY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JAN-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PC2IT04</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>1</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="5">
+		<courseId>A19PE1IT03</courseId>
+		<courseName>CYBER SECURITY</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JAN-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PE1IT03</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="5">
+		<courseId>A19PC1IT04</courseId>
+		<courseName>OPERATING SYSTEMS</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JAN-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PC1IT04</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="5">
+		<courseId>A19PW4IT02</courseId>
+		<courseName>INTERNSHIP</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JAN-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PW4IT02</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>1</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="5">
+		<courseId>A19PW4IT03</courseId>
+		<courseName>DESIGN THINKING</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JAN-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PW4IT03</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>2</credits>
+		<status>Completed</status>
+	</semester>
+	<semester id="6">
+		<courseId>A19PC1CS09</courseId>
+		<courseName>Artificial Intelligence</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JULY-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PC1CS09</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Running</status>
+	</semester>
+	<semester id="6">
+		<courseId>A19PC1CS10</courseId>
+		<courseName>Machine Learning</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JULY-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PC1CS10</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Running</status>
+	</semester>
+	<semester id="6">
+		<courseId>A19PC2IT05</courseId>
+		<courseName>Web Technologies Laboratory</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JULY-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PC2IT05</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>1</credits>
+		<status>Running</status>
+	</semester>
+	<semester id="6">
+		<courseId>A19OE1EC02</courseId>
+		<courseName>Open Elective -II</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JULY-2024</enrollmentDate>
+		<enrollmentId>12G8_A19OE1EC02</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Running</status>
+	</semester>
+	<semester id="6">
+		<courseId>A19PE1IT05</courseId>
+		<courseName>Professional Elective - II</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JULY-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PE1IT05</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Running</status>
+	</semester>
+	<semester id="6">
+		<courseId>A19PC2CS04</courseId>
+		<courseName>Machine Learning using Python Laboratory</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JULY-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PC2CS04</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>1</credits>
+		<status>Running</status>
+	</semester>
+	<semester id="6">
+		<courseId>A19PC1IT05</courseId>
+		<courseName>Web Technologies</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JULY-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PC1IT05</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Running</status>
+	</semester>
+	<semester id="6">
+		<courseId>A19PC1IT07</courseId>
+		<courseName>Linux Programming</courseName>
+		<grade>O</grade>
+		<enrollmentDate>JULY-2024</enrollmentDate>
+		<enrollmentId>12G8_A19PC1IT07</enrollmentId>
+		<classesAttended>0</classesAttended>
+		<totalClasses>0</totalClasses>
+		<credits>3</credits>
+		<status>Running</status>
+	</semester>
+</courses>

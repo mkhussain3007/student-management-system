@@ -1,0 +1,4417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<branches>
+<branch id='CE' name='Civil Engineering'>
+  <section id='A'>
+    <student>
+      <id>21071A0101</id>
+      <name>ADAPA VIGNESH</name>
+    </student>
+    <student>
+      <id>21071A0102</id>
+      <name>ADUVALA HARI CHANDAN</name>
+    </student>
+    <student>
+      <id>21071A0103</id>
+      <name>AMAN SRIVATSAV VEMULA</name>
+    </student>
+    <student>
+      <id>21071A0104</id>
+      <name>ANKATHI VENKAT SREERAJ</name>
+    </student>
+    <student>
+      <id>21071A0105</id>
+      <name>BANOTH CHANDULAL</name>
+    </student>
+    <student>
+      <id>21071A0106</id>
+      <name>BATTAPOTHULA SANJAY KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0107</id>
+      <name>BODDULA PRAVALIKA</name>
+    </student>
+    <student>
+      <id>21071A0108</id>
+      <name>C GOURIKANTH</name>
+    </student>
+    <student>
+      <id>21071A0109</id>
+      <name>CHERALA AKANKSHA</name>
+    </student>
+    <student>
+      <id>21071A0110</id>
+      <name>CHERUKURU MANVITHA</name>
+    </student>
+    <student>
+      <id>21071A0111</id>
+      <name>CHIRRIBOYINA VIHAS</name>
+    </student>
+    <student>
+      <id>21071A0112</id>
+      <name>CHITHARI ESHWAR</name>
+    </student>
+    <student>
+      <id>21071A0113</id>
+      <name>D L M SANTOSH KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0114</id>
+      <name>DATLA LAKSHMI TRISHITHA</name>
+    </student>
+    <student>
+      <id>21071A0115</id>
+      <name>DHANAVATH VENKATESH</name>
+    </student>
+    <student>
+      <id>21071A0116</id>
+      <name>GANDLA SRIRAJ</name>
+    </student>
+    <student>
+      <id>21071A0117</id>
+      <name>GHAYANDEV VANAPARTHI</name>
+    </student>
+    <student>
+      <id>21071A0118</id>
+      <name>GUGULOTH LOKESH NAIK</name>
+    </student>
+    <student>
+      <id>21071A0119</id>
+      <name>GUGULOTHU JHANSI</name>
+    </student>
+    <student>
+      <id>21071A0120</id>
+      <name>GUNAGANTI RAJU</name>
+    </student>
+    <student>
+      <id>21071A0121</id>
+      <name>H MAHESH</name>
+    </student>
+    <student>
+      <id>21071A0122</id>
+      <name>HARISH H D</name>
+    </student>
+    <student>
+      <id>21071A0123</id>
+      <name>JANGAM RAHUL</name>
+    </student>
+    <student>
+      <id>21071A0124</id>
+      <name>K MEENAKSHI</name>
+    </student>
+    <student>
+      <id>21071A0125</id>
+      <name>K ROHITH</name>
+    </student>
+    <student>
+      <id>21071A0126</id>
+      <name>KALA PRANEETHA</name>
+    </student>
+    <student>
+      <id>21071A0127</id>
+      <name>KAMINENI BAVYA SREE</name>
+    </student>
+    <student>
+      <id>21071A0128</id>
+      <name>KASPULA PAVAN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0129</id>
+      <name>KOLLURI MALLISHWARI</name>
+    </student>
+    <student>
+      <id>21071A0130</id>
+      <name>KUMMARI VINOD KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0131</id>
+      <name>KURAGAYALA VAISHNAVI</name>
+    </student>
+    <student>
+      <id>21071A0132</id>
+      <name>LINGABATHINA CHITTESH VARMA</name>
+    </student>
+    <student>
+      <id>21071A0133</id>
+      <name>M L ROHITH NAIK</name>
+    </student>
+    <student>
+      <id>21071A0134</id>
+      <name>M SRI PRIYA KEERTHANA REDDY</name>
+    </student>
+    <student>
+      <id>21071A0135</id>
+      <name>M V S P GREESHMANTH</name>
+    </student>
+    <student>
+      <id>21071A0136</id>
+      <name>MALKA VYSHNAVI</name>
+    </student>
+    <student>
+      <id>21071A0137</id>
+      <name>MIDDELA KRISHNA VAMSHI REDDY</name>
+    </student>
+    <student>
+      <id>21071A0138</id>
+      <name>MIRAPAKAYALA NITHIN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0139</id>
+      <name>MOHAMMED AABID</name>
+    </student>
+    <student>
+      <id>21071A0140</id>
+      <name>MUMMADI ANJI REDDY</name>
+    </student>
+    <student>
+      <id>21071A0141</id>
+      <name>NAGU SINDHU</name>
+    </student>
+    <student>
+      <id>21071A0142</id>
+      <name>NENAVATH ABHILASH</name>
+    </student>
+    <student>
+      <id>21071A0143</id>
+      <name>PABBU ARUN</name>
+    </student>
+    <student>
+      <id>21071A0144</id>
+      <name>PEERALA SWAMY</name>
+    </student>
+    <student>
+      <id>21071A0145</id>
+      <name>PITTALA DHANUSH</name>
+    </student>
+    <student>
+      <id>21071A0146</id>
+      <name>PULLA ESHWAR ASISH</name>
+    </student>
+    <student>
+      <id>21071A0147</id>
+      <name>RACHAKONDA POOJITHA</name>
+    </student>
+    <student>
+      <id>21071A0148</id>
+      <name>RAMAVATH POORNA SAI</name>
+    </student>
+    <student>
+      <id>21071A0149</id>
+      <name>RATHOD KIRAN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0150</id>
+      <name>S GEETESWAR</name>
+    </student>
+    <student>
+      <id>21071A0151</id>
+      <name>SHIVANNAGARI SIDDHARTHA</name>
+    </student>
+    <student>
+      <id>21071A0152</id>
+      <name>SHIVARATHRI ESHWAR</name>
+    </student>
+    <student>
+      <id>21071A0153</id>
+      <name>SINGAMALLA RISHIKA</name>
+    </student>
+    <student>
+      <id>21071A0154</id>
+      <name>SWARAJ MENENI</name>
+    </student>
+    <student>
+      <id>21071A0155</id>
+      <name>THAGILI OMESHWARI</name>
+    </student>
+    <student>
+      <id>21071A0156</id>
+      <name>THOKALA BHANU PRAKASH GOUD</name>
+    </student>
+    <student>
+      <id>21071A0157</id>
+      <name>THOMMANDRU CHARAN REVANTH</name>
+    </student>
+    <student>
+      <id>21071A0158</id>
+      <name>THORRA MANASA</name>
+    </student>
+    <student>
+      <id>21071A0159</id>
+      <name>V VISHWAK SENA REDDY</name>
+    </student>
+    <student>
+      <id>21071A0160</id>
+      <name>VADLA RAKESH CHARY</name>
+    </student>
+    <student>
+      <id>21071A0161</id>
+      <name>VARSHITA KAMEPALLI</name>
+    </student>
+    <student>
+      <id>21071A0162</id>
+      <name>VITTANALA SAI VISHWA TEJA</name>
+    </student>
+    <student>
+      <id>21071A0163</id>
+      <name>YAMALA MIDHUN SAI</name>
+    </student>
+    <student>
+      <id>21071A0164</id>
+      <name>YATHAKULA RAJESH</name>
+    </student>
+  </section>
+  <section id='B'>
+    <student>
+      <id>21071A0165</id>
+      <name>ADAPA NAGA SRI SAHITHI</name>
+    </student>
+    <student>
+      <id>21071A0166</id>
+      <name>Akula Jayanth</name>
+    </student>
+    <student>
+      <id>21071A0167</id>
+      <name>AKUTHOTA SHIVANI</name>
+    </student>
+    <student>
+      <id>21071A0168</id>
+      <name>ALLEPU OM SAI PRAKASH</name>
+    </student>
+    <student>
+      <id>21071A0169</id>
+      <name>ATHRAM VINAY</name>
+    </student>
+    <student>
+      <id>21071A0170</id>
+      <name>BANOTH ASHOK</name>
+    </student>
+    <student>
+      <id>21071A0171</id>
+      <name>BASA VARDHAN REDDY</name>
+    </student>
+    <student>
+      <id>21071A0172</id>
+      <name>BETHI RISHIKESH REDDY</name>
+    </student>
+    <student>
+      <id>21071A0173</id>
+      <name>BETHI SNEHITH</name>
+    </student>
+    <student>
+      <id>21071A0174</id>
+      <name>BHOGI POOJA</name>
+    </student>
+    <student>
+      <id>21071A0175</id>
+      <name>BHUKYA GANGADHAR</name>
+    </student>
+    <student>
+      <id>21071A0176</id>
+      <name>BUSSA SHASHI KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0177</id>
+      <name>BYAGARI KARTHIK</name>
+    </student>
+    <student>
+      <id>21071A0178</id>
+      <name>CHALLA JAYENDRA</name>
+    </student>
+    <student>
+      <id>21071A0179</id>
+      <name>DABBUKOTTU ANIL KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0180</id>
+      <name>DOMAKONDA PRANEETH KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0181</id>
+      <name>DURGAM SRAVAN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0182</id>
+      <name>GOLLA MANIVARDHAN</name>
+    </student>
+    <student>
+      <id>21071A0183</id>
+      <name>GONTI JASWANTH</name>
+    </student>
+    <student>
+      <id>21071A0184</id>
+      <name>GUNDA KOUSHIK</name>
+    </student>
+    <student>
+      <id>21071A0185</id>
+      <name>JOGU NITHIN</name>
+    </student>
+    <student>
+      <id>21071A0186</id>
+      <name>KAMIDI SRUTHI</name>
+    </student>
+    <student>
+      <id>21071A0187</id>
+      <name>KAMSU NAVEEN</name>
+    </student>
+    <student>
+      <id>21071A0188</id>
+      <name>KANDAGATLA BHARGAVA RAM</name>
+    </student>
+    <student>
+      <id>21071A0189</id>
+      <name>KIMERI NGULLIE</name>
+    </student>
+    <student>
+      <id>21071A0190</id>
+      <name>KODEPULLA SRIVARSHINI</name>
+    </student>
+    <student>
+      <id>21071A0191</id>
+      <name>KOMMU SUMAVALI</name>
+    </student>
+    <student>
+      <id>21071A0192</id>
+      <name>KUKKALA RASHMI</name>
+    </student>
+    <student>
+      <id>21071A0193</id>
+      <name>LACHAMMAGARI JANAKI</name>
+    </student>
+    <student>
+      <id>21071A0194</id>
+      <name>M D SHABANA BEE</name>
+    </student>
+    <student>
+      <id>21071A0195</id>
+      <name>M SAI SATHVIK</name>
+    </student>
+    <student>
+      <id>21071A0196</id>
+      <name>M SAI TEJA</name>
+    </student>
+    <student>
+      <id>21071A0197</id>
+      <name>MADESH RAGHUVARAN</name>
+    </student>
+    <student>
+      <id>21071A0198</id>
+      <name>MANNE KRANTHI KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0199</id>
+      <name>MANTHENA SHYAM KUMAR</name>
+    </student>
+    <student>
+      <id>21071A01A0</id>
+      <name>MOHAMMAD MOKTHAIR</name>
+    </student>
+    <student>
+      <id>21071A01A1</id>
+      <name>MOHD MUSADDIQ QURESHI</name>
+    </student>
+    <student>
+      <id>21071A01A2</id>
+      <name>MUTHYAM SUDHEER</name>
+    </student>
+    <student>
+      <id>21071A01A3</id>
+      <name>NAGABHYRAVA BABY CHANDANA</name>
+    </student>
+    <student>
+      <id>21071A01A4</id>
+      <name>NAMANI MANVIK</name>
+    </student>
+    <student>
+      <id>21071A01A5</id>
+      <name>PADIDAM RISHIKESH REDDY</name>
+    </student>
+    <student>
+      <id>21071A01A6</id>
+      <name>PAKALA SUHAS REDDY</name>
+    </student>
+    <student>
+      <id>21071A01A7</id>
+      <name>PALA SRIKANTH</name>
+    </student>
+    <student>
+      <id>21071A01A8</id>
+      <name>PALLE VAMSHI KRISHNA</name>
+    </student>
+    <student>
+      <id>21071A01A9</id>
+      <name>PALLETI AKASH VAMSHI</name>
+    </student>
+    <student>
+      <id>21071A01B0</id>
+      <name>PANKU ANVESH</name>
+    </student>
+    <student>
+      <id>21071A01B1</id>
+      <name>Pragya Venkat Chellapilla</name>
+    </student>
+    <student>
+      <id>21071A01B2</id>
+      <name>RAMARAJU CHANDRALEKHA</name>
+    </student>
+    <student>
+      <id>21071A01B3</id>
+      <name>RATHOD KRANTHIKUMAR</name>
+    </student>
+    <student>
+      <id>21071A01B4</id>
+      <name>SAINI RAKSHITH</name>
+    </student>
+    <student>
+      <id>21071A01B5</id>
+      <name>SHIVARATHRI SRINATH</name>
+    </student>
+    <student>
+      <id>21071A01B6</id>
+      <name>SUJAY KUMAR THIRUKKOVALUR</name>
+    </student>
+    <student>
+      <id>21071A01B7</id>
+      <name>TAMADA SAI KIRAN</name>
+    </student>
+    <student>
+      <id>21071A01B8</id>
+      <name>THANNIRU MANIKANTA</name>
+    </student>
+    <student>
+      <id>21071A01B9</id>
+      <name>TOKACHICHU PREETHI</name>
+    </student>
+    <student>
+      <id>21071A01C0</id>
+      <name>TUMPALA SHALEM</name>
+    </student>
+    <student>
+      <id>21071A01C1</id>
+      <name>V HARSHITHA REDDY</name>
+    </student>
+    <student>
+      <id>21071A01C2</id>
+      <name>VALLURUPALLI JAISHNU</name>
+    </student>
+    <student>
+      <id>21071A01C3</id>
+      <name>VARALA VENKAT SAI RAM</name>
+    </student>
+    <student>
+      <id>21071A01C4</id>
+      <name>VATUPALLI SRINU</name>
+    </student>
+    <student>
+      <id>21071A01C5</id>
+      <name>VIBUDHI ANJANEYULU</name>
+    </student>
+    <student>
+      <id>21071A01C6</id>
+      <name>VUMMETHALA VAISHALEE</name>
+    </student>
+    <student>
+      <id>21071A01C7</id>
+      <name>VUTAKURI RAKESH</name>
+    </student>
+  </section>
+</branch>
+<branch id='CSE' name='Computer Science and Information Technology'>
+  <section id='A'>
+    <student>
+      <id>21071A0501</id>
+      <name>A SANAY KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0502</id>
+      <name>AJIMERA ABHINAV</name>
+    </student>
+    <student>
+      <id>21071A0503</id>
+      <name>AKHILESH KUMAR TAGARAY</name>
+    </student>
+    <student>
+      <id>21071A0504</id>
+      <name>ALLANI KARTHIKEYA</name>
+    </student>
+    <student>
+      <id>21071A0505</id>
+      <name>ANURAG PAL</name>
+    </student>
+    <student>
+      <id>21071A0506</id>
+      <name>BACHU SRIVARSHA</name>
+    </student>
+    <student>
+      <id>21071A0507</id>
+      <name>BADDAM SUPREETH REDDY</name>
+    </student>
+    <student>
+      <id>21071A0508</id>
+      <name>BHAVANTULA SAI NIKHITHA</name>
+    </student>
+    <student>
+      <id>21071A0509</id>
+      <name>BOINPALLY VINAYA</name>
+    </student>
+    <student>
+      <id>21071A0510</id>
+      <name>BONDILI BALA KARTHIKEYA SINGH</name>
+    </student>
+    <student>
+      <id>21071A0511</id>
+      <name>DAIDI DHANASREE</name>
+    </student>
+    <student>
+      <id>21071A0512</id>
+      <name>DEVABHAKTHUNI CHANDRIKA</name>
+    </student>
+    <student>
+      <id>21071A0513</id>
+      <name>DEVARAPU AJAY VISWAS</name>
+    </student>
+    <student>
+      <id>21071A0514</id>
+      <name>DHARAVATH NIKHIL</name>
+    </student>
+    <student>
+      <id>21071A0515</id>
+      <name>DOGIPARTHI AKSHAY KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0516</id>
+      <name>DUKANAM KEERTHAN</name>
+    </student>
+    <student>
+      <id>21071A0517</id>
+      <name>ENAKONDA NIVEDITHA</name>
+    </student>
+    <student>
+      <id>21071A0518</id>
+      <name>G CHANDRA SHEKAR</name>
+    </student>
+    <student>
+      <id>21071A0519</id>
+      <name>GANGAVARAPU KOUSHIK SIVA SAI</name>
+    </student>
+    <student>
+      <id>21071A0520</id>
+      <name>GNANA SATHWIKA V N V</name>
+    </student>
+    <student>
+      <id>21071A0521</id>
+      <name>GOMARAM SHRIJA REDDY</name>
+    </student>
+    <student>
+      <id>21071A0522</id>
+      <name>GUDELLI GREESHMA</name>
+    </student>
+    <student>
+      <id>21071A0523</id>
+      <name>GUNNAI NISHANTH</name>
+    </student>
+    <student>
+      <id>21071A0524</id>
+      <name>JAYASREE GONDIPALLE</name>
+    </student>
+    <student>
+      <id>21071A0525</id>
+      <name>KANDURI ABHIGNA</name>
+    </student>
+    <student>
+      <id>21071A0526</id>
+      <name>KARNE RUTHVIK ROHAN</name>
+    </student>
+    <student>
+      <id>21071A0527</id>
+      <name>KARTHIK REDDY SALKUTI</name>
+    </student>
+    <student>
+      <id>21071A0528</id>
+      <name>KATHULA MUNI VENKATA ABHIRAM</name>
+    </student>
+    <student>
+      <id>21071A0529</id>
+      <name>KATRAVATH THIRUPATHI NAIK</name>
+    </student>
+    <student>
+      <id>21071A0530</id>
+      <name>KATUKURI POOJA</name>
+    </student>
+    <student>
+      <id>21071A0531</id>
+      <name>KINTALI ANEESH SOORYA THEJA</name>
+    </student>
+    <student>
+      <id>21071A0532</id>
+      <name>KOTTE RITHEESH KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0533</id>
+      <name>KOYA PRABHAS</name>
+    </student>
+    <student>
+      <id>21071A0534</id>
+      <name>KRISHNASAGARAPU SRIRAM CHARAN</name>
+    </student>
+    <student>
+      <id>21071A0535</id>
+      <name>KURUDI SREEKAR VYAS</name>
+    </student>
+    <student>
+      <id>21071A0536</id>
+      <name>M ABHINAV</name>
+    </student>
+    <student>
+      <id>21071A0537</id>
+      <name>MANGALI HEMA CHANDRIKA</name>
+    </student>
+    <student>
+      <id>21071A0538</id>
+      <name>MEDISETTY VISWANATHAN ANAND</name>
+    </student>
+    <student>
+      <id>21071A0539</id>
+      <name>MOHAMMED NOORUDDIN</name>
+    </student>
+    <student>
+      <id>21071A0540</id>
+      <name>MOHANAVAMSHI DEVULAPALLY</name>
+    </student>
+    <student>
+      <id>21071A0541</id>
+      <name>MOHIT GUPTA</name>
+    </student>
+    <student>
+      <id>21071A0542</id>
+      <name>MUDDASU RAHUL</name>
+    </student>
+    <student>
+      <id>21071A0543</id>
+      <name>MUSKULA SHALINI</name>
+    </student>
+    <student>
+      <id>21071A0544</id>
+      <name>PAJJURI SHRUTHI</name>
+    </student>
+    <student>
+      <id>21071A0545</id>
+      <name>PATHIRI RAMCHARAN</name>
+    </student>
+    <student>
+      <id>21071A0546</id>
+      <name>PILLI SUHASINI</name>
+    </student>
+    <student>
+      <id>21071A0547</id>
+      <name>POOSA BRIJESH</name>
+    </student>
+    <student>
+      <id>21071A0548</id>
+      <name>POTRU AVINASH</name>
+    </student>
+    <student>
+      <id>21071A0549</id>
+      <name>R AMRUTHA VARSHINI</name>
+    </student>
+    <student>
+      <id>21071A0550</id>
+      <name>R JAHNAVI REDDY</name>
+    </student>
+    <student>
+      <id>21071A0551</id>
+      <name>RAMAVATH PEDA RAYUDU</name>
+    </student>
+    <student>
+      <id>21071A0552</id>
+      <name>RATHLAVATH CHANDAR NAYAK</name>
+    </student>
+    <student>
+      <id>21071A0553</id>
+      <name>SAI JAHNAVI RALLAPALLI</name>
+    </student>
+    <student>
+      <id>21071A0554</id>
+      <name>SAI RAKSHITA NARSINGH</name>
+    </student>
+    <student>
+      <id>21071A0555</id>
+      <name>SANDIPAM SHAUN ARYAN</name>
+    </student>
+    <student>
+      <id>21071A0556</id>
+      <name>SHABAD NITIN</name>
+    </student>
+    <student>
+      <id>21071A0557</id>
+      <name>TANGELLAPALLY VARUN REDDY</name>
+    </student>
+    <student>
+      <id>21071A0558</id>
+      <name>TEMBERVENI HARSHITHA</name>
+    </student>
+    <student>
+      <id>21071A0559</id>
+      <name>THANGELLAPALLI PRANAY</name>
+    </student>
+    <student>
+      <id>21071A0560</id>
+      <name>TUMATI ANJAN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0561</id>
+      <name>VADLAMUDI VAMSI KRISHNA</name>
+    </student>
+    <student>
+      <id>21071A0562</id>
+      <name>VATTE VIDHYADHAR REDDY</name>
+    </student>
+    <student>
+      <id>21071A0563</id>
+      <name>VEGESNA H V KAUSHIK VARMA</name>
+    </student>
+    <student>
+      <id>21071A0564</id>
+      <name>VIRIVINTI MANASA</name>
+    </student>
+    <student>
+      <id>21071A0565</id>
+      <name>YEKBOTE RUPA</name>
+    </student>
+  </section>
+  <section id='B'>
+    <student>
+      <id>21071A0566</id>
+      <name>AELUGURI RANJITH</name>
+    </student>
+    <student>
+      <id>21071A0567</id>
+      <name>ALANKA KUSUMA</name>
+    </student>
+    <student>
+      <id>21071A0568</id>
+      <name>ANUMULA YENWANTH REDDY</name>
+    </student>
+    <student>
+      <id>21071A0569</id>
+      <name>ARVIND SAI RATAKONDA</name>
+    </student>
+    <student>
+      <id>21071A0570</id>
+      <name>B VARSHA REDDY</name>
+    </student>
+    <student>
+      <id>21071A0571</id>
+      <name>BADDAM RITHIKA REDDY</name>
+    </student>
+    <student>
+      <id>21071A0572</id>
+      <name>BANDI DEEKSHITA CHOWDARY</name>
+    </student>
+    <student>
+      <id>21071A0573</id>
+      <name>BANOTH ANAND</name>
+    </student>
+    <student>
+      <id>21071A0574</id>
+      <name>BHUPATHI AMULYA</name>
+    </student>
+    <student>
+      <id>21071A0575</id>
+      <name>CHALLAGULLA YASHWANTH SAI</name>
+    </student>
+    <student>
+      <id>21071A0576</id>
+      <name>CHUNCHU SRICHARAN</name>
+    </student>
+    <student>
+      <id>21071A0577</id>
+      <name>DARNA SRI CHARAN</name>
+    </student>
+    <student>
+      <id>21071A0578</id>
+      <name>DUSA SURAKSHA</name>
+    </student>
+    <student>
+      <id>21071A0579</id>
+      <name>ERROLLA NITHIN PRASAD</name>
+    </student>
+    <student>
+      <id>21071A0580</id>
+      <name>GALI BALA ANTHONY SHREYA</name>
+    </student>
+    <student>
+      <id>21071A0581</id>
+      <name>GANGAPURAPU NIHARIKA</name>
+    </student>
+    <student>
+      <id>21071A0582</id>
+      <name>GANNAMANI SRI SARADA</name>
+    </student>
+    <student>
+      <id>21071A0583</id>
+      <name>GODARI SOHAN</name>
+    </student>
+    <student>
+      <id>21071A0584</id>
+      <name>GOPI SAI AKSHITH</name>
+    </student>
+    <student>
+      <id>21071A0585</id>
+      <name>GOTTIMUKKULA POOJA</name>
+    </student>
+    <student>
+      <id>21071A0586</id>
+      <name>GUGULOTH SANJANA</name>
+    </student>
+    <student>
+      <id>21071A0587</id>
+      <name>GUGULOTH SUDHAKAR</name>
+    </student>
+    <student>
+      <id>21071A0588</id>
+      <name>GUGULOTHU TANAYA</name>
+    </student>
+    <student>
+      <id>21071A0589</id>
+      <name>JAKKAPURAM MANISH</name>
+    </student>
+    <student>
+      <id>21071A0590</id>
+      <name>JANGILI SIREESHA</name>
+    </student>
+    <student>
+      <id>21071A0591</id>
+      <name>JONNALAGADDA HARIPRIYA</name>
+    </student>
+    <student>
+      <id>21071A0592</id>
+      <name>KANDURI SAHITH</name>
+    </student>
+    <student>
+      <id>21071A0593</id>
+      <name>KANUMILLI VENKATA BHARGAVI</name>
+    </student>
+    <student>
+      <id>21071A0594</id>
+      <name>KOLIPAKA SHIVA SAI PRASAD</name>
+    </student>
+    <student>
+      <id>21071A0595</id>
+      <name>KOLLI VISHNU VARDHAN CHOWDARY</name>
+    </student>
+    <student>
+      <id>21071A0596</id>
+      <name>KOLLURE GUNA RATHNA</name>
+    </student>
+    <student>
+      <id>21071A0597</id>
+      <name>KURNA ADITYANATH</name>
+    </student>
+    <student>
+      <id>21071A0598</id>
+      <name>KURVA SHOBA</name>
+    </student>
+    <student>
+      <id>21071A0599</id>
+      <name>M N S SRI HARSHINI</name>
+    </student>
+    <student>
+      <id>21071A05A0</id>
+      <name>MAKINENI SAROJ VIHUNG</name>
+    </student>
+    <student>
+      <id>21071A05A1</id>
+      <name>MALLIREDDY VENKAT AVINASH</name>
+    </student>
+    <student>
+      <id>21071A05A2</id>
+      <name>MANNEM MURALI KARTHIK</name>
+    </student>
+    <student>
+      <id>21071A05A3</id>
+      <name>MANTHINI RAVALI</name>
+    </student>
+    <student>
+      <id>21071A05A4</id>
+      <name>MUDUNURI ABHINAYA</name>
+    </student>
+    <student>
+      <id>21071A05A5</id>
+      <name>NEMULLA NIKHIL KUMAR</name>
+    </student>
+    <student>
+      <id>21071A05A6</id>
+      <name>PABBATHI CHAKRIDHAR</name>
+    </student>
+    <student>
+      <id>21071A05A7</id>
+      <name>PACHIKA VINEETH REDDY</name>
+    </student>
+    <student>
+      <id>21071A05A8</id>
+      <name>PALOJU PRADHYUMNA</name>
+    </student>
+    <student>
+      <id>21071A05A9</id>
+      <name>PEDDINENI SAI KUMAR</name>
+    </student>
+    <student>
+      <id>21071A05B0</id>
+      <name>PEDDINENI SAI NIVAS</name>
+    </student>
+    <student>
+      <id>21071A05B1</id>
+      <name>RAMADUGU SHIVA SAI KRISHNA</name>
+    </student>
+    <student>
+      <id>21071A05B2</id>
+      <name>RAVULA KEERTHI</name>
+    </student>
+    <student>
+      <id>21071A05B3</id>
+      <name>SAI KIRAN KESHANNAGARI</name>
+    </student>
+    <student>
+      <id>21071A05B4</id>
+      <name>SAMALA KEERTHI</name>
+    </student>
+    <student>
+      <id>21071A05B5</id>
+      <name>SANDYA RANI M</name>
+    </student>
+    <student>
+      <id>21071A05B6</id>
+      <name>SAVARAPU OMKAARINI</name>
+    </student>
+    <student>
+      <id>21071A05B7</id>
+      <name>SHAIK MOHAMMAD KAIF</name>
+    </student>
+    <student>
+      <id>21071A05B8</id>
+      <name>SHAIK SAI SANZU</name>
+    </student>
+    <student>
+      <id>21071A05B9</id>
+      <name>SREEPATHI RUSHI SIDDARDHA</name>
+    </student>
+    <student>
+      <id>21071A05C0</id>
+      <name>SRINITHYA VALLEPALLI</name>
+    </student>
+    <student>
+      <id>21071A05C1</id>
+      <name>SRIRAMA VENU</name>
+    </student>
+    <student>
+      <id>21071A05C2</id>
+      <name>SUDAGONI ANOGNA</name>
+    </student>
+    <student>
+      <id>21071A05C3</id>
+      <name>SUNKI LIKITH REDDY</name>
+    </student>
+    <student>
+      <id>21071A05C4</id>
+      <name>THALLA DEEPAK</name>
+    </student>
+    <student>
+      <id>21071A05C5</id>
+      <name>VANGA VIRINCHI REDDY</name>
+    </student>
+    <student>
+      <id>21071A05C6</id>
+      <name>VATTAM HANEESH REDDY</name>
+    </student>
+    <student>
+      <id>21071A05C7</id>
+      <name>VELAGALA NITYADEEP</name>
+    </student>
+    <student>
+      <id>21071A05C8</id>
+      <name>VUNNAM DEEPTHI</name>
+    </student>
+    <student>
+      <id>21071A05C9</id>
+      <name>YALAMANCHI SREEJA MANASA</name>
+    </student>
+    <student>
+      <id>21071A05D0</id>
+      <name>YERRAMASU DHEERAJ</name>
+    </student>
+  </section>
+  <section id='C'>
+    <student>
+      <id>21071A05D1</id>
+      <name>ALLADI SHIVA VINAY</name>
+    </student>
+    <student>
+      <id>21071A05D2</id>
+      <name>ANKAM VISHNU SAI</name>
+    </student>
+    <student>
+      <id>21071A05D3</id>
+      <name>ARCHANA S</name>
+    </student>
+    <student>
+      <id>21071A05D4</id>
+      <name>ARSHIYA MEHNAZ</name>
+    </student>
+    <student>
+      <id>21071A05D5</id>
+      <name>AVVARU GURU SAI NANDAN</name>
+    </student>
+    <student>
+      <id>21071A05D6</id>
+      <name>B RISHAB GUPTA</name>
+    </student>
+    <student>
+      <id>21071A05D7</id>
+      <name>BALUSU SAI SRIYUKTHA</name>
+    </student>
+    <student>
+      <id>21071A05D8</id>
+      <name>BHOOMA SNEHITHA</name>
+    </student>
+    <student>
+      <id>21071A05D9</id>
+      <name>CHALLA HARSHA VARDHAN</name>
+    </student>
+    <student>
+      <id>21071A05E0</id>
+      <name>CHEKURI MOHIT</name>
+    </student>
+    <student>
+      <id>21071A05E1</id>
+      <name>CHERUKUMALLI RASMI KRISHNA</name>
+    </student>
+    <student>
+      <id>21071A05E2</id>
+      <name>CHINTHOJU ROHITH</name>
+    </student>
+    <student>
+      <id>21071A05E3</id>
+      <name>DEVI REDDY SIDDARTHA REDDY</name>
+    </student>
+    <student>
+      <id>21071A05E4</id>
+      <name>DUNNA SHIVA PRASAD</name>
+    </student>
+    <student>
+      <id>21071A05E5</id>
+      <name>GADDAM PALLAVI REDDY</name>
+    </student>
+    <student>
+      <id>21071A05E6</id>
+      <name>GOLLA DURGESH YADAV</name>
+    </student>
+    <student>
+      <id>21071A05E7</id>
+      <name>GOPARAJU NISHANTH</name>
+    </student>
+    <student>
+      <id>21071A05E8</id>
+      <name>GORLA PREETH</name>
+    </student>
+    <student>
+      <id>21071A05E9</id>
+      <name>GUNDU VENKATA SAI</name>
+    </student>
+    <student>
+      <id>21071A05F0</id>
+      <name>GUNTI HARINI</name>
+    </student>
+    <student>
+      <id>21071A05F1</id>
+      <name>JAMMULA KRISHNA BABU</name>
+    </student>
+    <student>
+      <id>21071A05F2</id>
+      <name>KATANGURI SAI SHASHIDHAR REDDY</name>
+    </student>
+    <student>
+      <id>21071A05F3</id>
+      <name>KODAMAGUNDLA DHANUJA</name>
+    </student>
+    <student>
+      <id>21071A05F4</id>
+      <name>KONAKALLA SRIJA</name>
+    </student>
+    <student>
+      <id>21071A05F5</id>
+      <name>LOCULA SHRAVIKA</name>
+    </student>
+    <student>
+      <id>21071A05F6</id>
+      <name>M NAVYA</name>
+    </student>
+    <student>
+      <id>21071A05F7</id>
+      <name>MADDIPATI RISHITHA</name>
+    </student>
+    <student>
+      <id>21071A05F8</id>
+      <name>MAMIDI SYLASYA</name>
+    </student>
+    <student>
+      <id>21071A05F9</id>
+      <name>MARAGONI VAMSHIKRISHNA</name>
+    </student>
+    <student>
+      <id>21071A05G0</id>
+      <name>MARINGANTI GOPI KRISHNNA</name>
+    </student>
+    <student>
+      <id>21071A05G1</id>
+      <name>MATTEWADA PAVAN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A05G2</id>
+      <name>MATURI ABHINAY GOUD</name>
+    </student>
+    <student>
+      <id>21071A05G3</id>
+      <name>MIRYALA MOUNISHA</name>
+    </student>
+    <student>
+      <id>21071A05G4</id>
+      <name>MOHAMMED ABDULLAH</name>
+    </student>
+    <student>
+      <id>21071A05G5</id>
+      <name>MOHAMMED SULEMAN MUSTAQ</name>
+    </student>
+    <student>
+      <id>21071A05G6</id>
+      <name>N BHAVYASRI</name>
+    </student>
+    <student>
+      <id>21071A05G7</id>
+      <name>NAGULAVANCHA GAYATHRI</name>
+    </student>
+    <student>
+      <id>21071A05G8</id>
+      <name>NATTA RISHITHA</name>
+    </student>
+    <student>
+      <id>21071A05G9</id>
+      <name>NIMMA SRIHITHA</name>
+    </student>
+    <student>
+      <id>21071A05H0</id>
+      <name>PABBISETTY MADHULIKA</name>
+    </student>
+    <student>
+      <id>21071A05H1</id>
+      <name>PASUPULETI HARSHITHA</name>
+    </student>
+    <student>
+      <id>21071A05H2</id>
+      <name>PATHA RAKSHITHA</name>
+    </student>
+    <student>
+      <id>21071A05H3</id>
+      <name>PENTA UTTEJ</name>
+    </student>
+    <student>
+      <id>21071A05H4</id>
+      <name>PITTA PREM SAI REDDY</name>
+    </student>
+    <student>
+      <id>21071A05H5</id>
+      <name>POLA SRINIDHI</name>
+    </student>
+    <student>
+      <id>21071A05H6</id>
+      <name>PULLURU SATWIK</name>
+    </student>
+    <student>
+      <id>21071A05H7</id>
+      <name>R SAI CHARAN GOUD</name>
+    </student>
+    <student>
+      <id>21071A05H8</id>
+      <name>RACHAKONDA RISHIKA</name>
+    </student>
+    <student>
+      <id>21071A05H9</id>
+      <name>RUDRAKSHALA SATHYA PHANI</name>
+    </student>
+    <student>
+      <id>21071A05J0</id>
+      <name>SANAGANA SAI TARUN</name>
+    </student>
+    <student>
+      <id>21071A05J1</id>
+      <name>SHAIK MAHIMOOD PASHA</name>
+    </student>
+    <student>
+      <id>21071A05J2</id>
+      <name>SINGAM VAMSHI KRISHNA</name>
+    </student>
+    <student>
+      <id>21071A05J3</id>
+      <name>SOMARAM SOUJANYA</name>
+    </student>
+    <student>
+      <id>21071A05J4</id>
+      <name>SRILAHARI GANTA</name>
+    </student>
+    <student>
+      <id>21071A05J5</id>
+      <name>T VARSHITHA</name>
+    </student>
+    <student>
+      <id>21071A05J6</id>
+      <name>TAMMA BHUWAN VAMSI</name>
+    </student>
+    <student>
+      <id>21071A05J7</id>
+      <name>TANETI PRIYADHARSHINI</name>
+    </student>
+    <student>
+      <id>21071A05J8</id>
+      <name>TARIGOPULA AMRUTHA VARSHA</name>
+    </student>
+    <student>
+      <id>21071A05J9</id>
+      <name>TUTARAPU THANMAYEE</name>
+    </student>
+    <student>
+      <id>21071A05K0</id>
+      <name>VAISHNAV ARKALA</name>
+    </student>
+    <student>
+      <id>21071A05K1</id>
+      <name>VEERAMALLA PRANAVI</name>
+    </student>
+    <student>
+      <id>21071A05K2</id>
+      <name>VEGESNA SRI SOWMYA</name>
+    </student>
+    <student>
+      <id>21071A05K3</id>
+      <name>VISWAS YADIDYA BARAGATI</name>
+    </student>
+    <student>
+      <id>21071A05K4</id>
+      <name>YUKTHA SHREYA NAREGUDEM</name>
+    </student>
+  </section>
+  <section id='D'>
+    <student>
+      <id>21071A05K5</id>
+      <name>AKULA SHARATH</name>
+    </student>
+    <student>
+      <id>21071A05K6</id>
+      <name>ALLUGUNDU MOHAMMED MUSHEER</name>
+    </student>
+    <student>
+      <id>21071A05K7</id>
+      <name>AMRUTHA LAKSHMI DANABOINA</name>
+    </student>
+    <student>
+      <id>21071A05K8</id>
+      <name>ANANGI PAVAN</name>
+    </student>
+    <student>
+      <id>21071A05K9</id>
+      <name>BACHUPALLY SWENA SHANTHI</name>
+    </student>
+    <student>
+      <id>21071A05M0</id>
+      <name>BALTHA RUSHYENDRA VARMA</name>
+    </student>
+    <student>
+      <id>21071A05M1</id>
+      <name>BANGARU ARAVIND BHIMESWARA VISHAL</name>
+    </student>
+    <student>
+      <id>21071A05M2</id>
+      <name>BUDTHULA ABHINAV</name>
+    </student>
+    <student>
+      <id>21071A05M3</id>
+      <name>CHAKKA LAASYA PRIYA</name>
+    </student>
+    <student>
+      <id>21071A05M4</id>
+      <name>CHANDHIREDDY ANSHITHA REDDY</name>
+    </student>
+    <student>
+      <id>21071A05M6</id>
+      <name>CHIGICHERLA NANDA KISHORE</name>
+    </student>
+    <student>
+      <id>21071A05M7</id>
+      <name>CHINTALAPATI MEGHA SUHAS VARMA</name>
+    </student>
+    <student>
+      <id>21071A05M8</id>
+      <name>DAMPURU NISRITHA</name>
+    </student>
+    <student>
+      <id>21071A05M9</id>
+      <name>DARNA SRI LEKHA</name>
+    </student>
+    <student>
+      <id>21071A05N0</id>
+      <name>DONAKONDA MANOHAR</name>
+    </student>
+    <student>
+      <id>21071A05N1</id>
+      <name>DONGARI VARSHITH</name>
+    </student>
+    <student>
+      <id>21071A05N2</id>
+      <name>DOUDA DHANUSH</name>
+    </student>
+    <student>
+      <id>21071A05N3</id>
+      <name>GANGAVARAM SREEVIBHA</name>
+    </student>
+    <student>
+      <id>21071A05N4</id>
+      <name>GAYAM BHARGAV SIVA RAMREDDY</name>
+    </student>
+    <student>
+      <id>21071A05N5</id>
+      <name>GUDAVALLI LEKHA MADHURI</name>
+    </student>
+    <student>
+      <id>21071A05N6</id>
+      <name>JANGALA NAVEENKUMAR</name>
+    </student>
+    <student>
+      <id>21071A05N7</id>
+      <name>K MANORATH REDDY</name>
+    </student>
+    <student>
+      <id>21071A05N8</id>
+      <name>KANYABOINA SUBRAMANYAM</name>
+    </student>
+    <student>
+      <id>21071A05N9</id>
+      <name>KATMANDI SRIVENI</name>
+    </student>
+    <student>
+      <id>21071A05P0</id>
+      <name>KOLLOORI BHAVISHYA</name>
+    </student>
+    <student>
+      <id>21071A05P1</id>
+      <name>KOTHAPALLY BHAVYA SRI</name>
+    </student>
+    <student>
+      <id>21071A05P2</id>
+      <name>KUMMARI MANISH</name>
+    </student>
+    <student>
+      <id>21071A05P3</id>
+      <name>LAKAVATH THARUN</name>
+    </student>
+    <student>
+      <id>21071A05P4</id>
+      <name>MADHURA VALLI DATLA</name>
+    </student>
+    <student>
+      <id>21071A05P5</id>
+      <name>MAKA SURAJ</name>
+    </student>
+    <student>
+      <id>21071A05P6</id>
+      <name>MARIKANTI SREE MITHRA REDDY</name>
+    </student>
+    <student>
+      <id>21071A05P7</id>
+      <name>MATRI SREEJA</name>
+    </student>
+    <student>
+      <id>21071A05P8</id>
+      <name>MOGILI SRAVANI</name>
+    </student>
+    <student>
+      <id>21071A05P9</id>
+      <name>MOHAMMAD SAHIL MOHIUDDIN</name>
+    </student>
+    <student>
+      <id>21071A05Q0</id>
+      <name>MULA SREYA</name>
+    </student>
+    <student>
+      <id>21071A05Q1</id>
+      <name>MURKI SNIGDHA</name>
+    </student>
+    <student>
+      <id>21071A05Q2</id>
+      <name>N KAVYA REDDY</name>
+    </student>
+    <student>
+      <id>21071A05Q3</id>
+      <name>NAINALA BHAGYA VINAYA SINDHU</name>
+    </student>
+    <student>
+      <id>21071A05Q4</id>
+      <name>NANDELLI AMRUTHAVARSHINI</name>
+    </student>
+    <student>
+      <id>21071A05Q5</id>
+      <name>NANDIKATTI VENKATA JAYA VARDHAN</name>
+    </student>
+    <student>
+      <id>21071A05Q6</id>
+      <name>NAZMA BEGUM</name>
+    </student>
+    <student>
+      <id>21071A05Q7</id>
+      <name>NEHA GURRAM</name>
+    </student>
+    <student>
+      <id>21071A05Q8</id>
+      <name>NIMMAKAYALA SUNDARA SRI LAKSHMI</name>
+    </student>
+    <student>
+      <id>21071A05Q9</id>
+      <name>PALAKITTI GEETHANJALI</name>
+    </student>
+    <student>
+      <id>21071A05R0</id>
+      <name>PALAVALASA MANASKUMAR</name>
+    </student>
+    <student>
+      <id>21071A05R1</id>
+      <name>PANNALA ANUDEEP REDDY</name>
+    </student>
+    <student>
+      <id>21071A05R2</id>
+      <name>JAHNAVI VOORUGONDA</name>
+    </student>
+    <student>
+      <id>21071A05R3</id>
+      <name>PATLOLLA ROSHINI REDDY</name>
+    </student>
+    <student>
+      <id>21071A05R4</id>
+      <name>PENDYALA VARUN</name>
+    </student>
+    <student>
+      <id>21071A05R5</id>
+      <name>PINNAPUREDDY SUJITH KOUSHIK REDDY</name>
+    </student>
+    <student>
+      <id>21071A05R6</id>
+      <name>R NAGA SRI KEERTHANA</name>
+    </student>
+    <student>
+      <id>21071A05R7</id>
+      <name>ROHITH PATEL</name>
+    </student>
+    <student>
+      <id>21071A05R8</id>
+      <name>SEELAM SRI SAI SAKETHRAM REDDY</name>
+    </student>
+    <student>
+      <id>21071A05R9</id>
+      <name>SHALINI S</name>
+    </student>
+    <student>
+      <id>21071A05T0</id>
+      <name>SHEIK SHAHABAAZ</name>
+    </student>
+    <student>
+      <id>21071A05T1</id>
+      <name>SILAMPUR SATHVIKA</name>
+    </student>
+    <student>
+      <id>21071A05T2</id>
+      <name>SIRIGADDE NITHISH KUMAR</name>
+    </student>
+    <student>
+      <id>21071A05T3</id>
+      <name>SOMISETTI VARSHITH KUMAR</name>
+    </student>
+    <student>
+      <id>21071A05T4</id>
+      <name>THAPPETA DHANUSH REDDY</name>
+    </student>
+    <student>
+      <id>21071A05T5</id>
+      <name>THOPARAM SAI NITHISH</name>
+    </student>
+    <student>
+      <id>21071A05T6</id>
+      <name>VADLAKONDA RISHITHA</name>
+    </student>
+    <student>
+      <id>21071A05T7</id>
+      <name>VENNAMALLA SIDDHARDHA</name>
+    </student>
+    <student>
+      <id>21071A05T8</id>
+      <name>VUMMANENI LIKITHA CHOWDARY</name>
+    </student>
+    <student>
+      <id>21071A05T9</id>
+      <name>ASHIQ HUSSAIN MIR</name>
+    </student>
+    <student>
+      <id>21071A05U0</id>
+      <name>DIPESH KHER</name>
+    </student>
+  </section>
+</branch>
+<branch id='ECE' name='Electronics and Communication Engineering'>
+  <section id='A'>
+    <student>
+      <id>21071A0401</id>
+      <name>ALIKANTI VENKATA SAI SHUBHAY REDDY</name>
+    </student>
+    <student>
+      <id>21071A0402</id>
+      <name>ANISHETTI SAIRAJ TRIPATI</name>
+    </student>
+    <student>
+      <id>21071A0403</id>
+      <name>BANDI CHARAN</name>
+    </student>
+    <student>
+      <id>21071A0404</id>
+      <name>BEGARI SIRI ANGEL</name>
+    </student>
+    <student>
+      <id>21071A0405</id>
+      <name>BHUKYA NEERAJA</name>
+    </student>
+    <student>
+      <id>21071A0406</id>
+      <name>BOMMERA LIKITH</name>
+    </student>
+    <student>
+      <id>21071A0407</id>
+      <name>BONTHU MEGHANA</name>
+    </student>
+    <student>
+      <id>21071A0408</id>
+      <name>BURUGU RUTHWIK</name>
+    </student>
+    <student>
+      <id>21071A0409</id>
+      <name>CHELLI VANITHA</name>
+    </student>
+    <student>
+      <id>21071A0410</id>
+      <name>DAGGOLU VENKATESH MUDIRAJ</name>
+    </student>
+    <student>
+      <id>21071A0411</id>
+      <name>DAMERA SUPRIYA</name>
+    </student>
+    <student>
+      <id>21071A0412</id>
+      <name>DEVANDLA PAVAN</name>
+    </student>
+    <student>
+      <id>21071A0413</id>
+      <name>DEVARASETTY KULAKARNIKA</name>
+    </student>
+    <student>
+      <id>21071A0414</id>
+      <name>E GURUCHARAN</name>
+    </student>
+    <student>
+      <id>21071A0415</id>
+      <name>EARLA NISHITHA</name>
+    </student>
+    <student>
+      <id>21071A0416</id>
+      <name>ELEGETY SRI VARSHA</name>
+    </student>
+    <student>
+      <id>21071A0417</id>
+      <name>GANDHAM SAI SUJAY</name>
+    </student>
+    <student>
+      <id>21071A0418</id>
+      <name>I VENKATA SHASHANK VARMA</name>
+    </student>
+    <student>
+      <id>21071A0419</id>
+      <name>JAINI SACHIN REWARIA</name>
+    </student>
+    <student>
+      <id>21071A0420</id>
+      <name>K ANIL KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0421</id>
+      <name>KALAMADI ADITYA</name>
+    </student>
+    <student>
+      <id>21071A0422</id>
+      <name>KANUKUNTA NAVEEN</name>
+    </student>
+    <student>
+      <id>21071A0423</id>
+      <name>KARNA SHUSHRUTH SAI REDDY</name>
+    </student>
+    <student>
+      <id>21071A0424</id>
+      <name>KARVANGA ROHIT</name>
+    </student>
+    <student>
+      <id>21071A0425</id>
+      <name>KAVALI BHANUTEJA</name>
+    </student>
+    <student>
+      <id>21071A0426</id>
+      <name>KOTHAKAPU SAI PRASHANTH REDDY</name>
+    </student>
+    <student>
+      <id>21071A0427</id>
+      <name>KOYI KUMARA RAGHAVENDRA</name>
+    </student>
+    <student>
+      <id>21071A0428</id>
+      <name>KUMMARI HARIKA</name>
+    </student>
+    <student>
+      <id>21071A0429</id>
+      <name>M AJAY</name>
+    </student>
+    <student>
+      <id>21071A0430</id>
+      <name>M LAKSHMI SURYA</name>
+    </student>
+    <student>
+      <id>21071A0431</id>
+      <name>M VISHWATEJA</name>
+    </student>
+    <student>
+      <id>21071A0432</id>
+      <name>MACHANPALLY KARTHIK KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0433</id>
+      <name>MADHA SAI PRASHANTH GOUD</name>
+    </student>
+    <student>
+      <id>21071A0434</id>
+      <name>MAGANTI MANU SAI TEJA</name>
+    </student>
+    <student>
+      <id>21071A0435</id>
+      <name>MANUNURU NAGA SREE LEKHA</name>
+    </student>
+    <student>
+      <id>21071A0436</id>
+      <name>MEDURI GNANA DEEPIKA</name>
+    </student>
+    <student>
+      <id>21071A0437</id>
+      <name>MEGHANA CHANDANA</name>
+    </student>
+    <student>
+      <id>21071A0438</id>
+      <name>MOHD ATIF AHMED</name>
+    </student>
+    <student>
+      <id>21071A0439</id>
+      <name>NAINIKA KANDARPA</name>
+    </student>
+    <student>
+      <id>21071A0440</id>
+      <name>NOOGURI SHRUTHI</name>
+    </student>
+    <student>
+      <id>21071A0441</id>
+      <name>NUNSAVATHU GIREESHMA</name>
+    </student>
+    <student>
+      <id>21071A0442</id>
+      <name>P HANISH GOUD</name>
+    </student>
+    <student>
+      <id>21071A0443</id>
+      <name>PAGIDIPALLI CHUBIN ROHITH</name>
+    </student>
+    <student>
+      <id>21071A0444</id>
+      <name>PETETI NISSY TIRZAH</name>
+    </student>
+    <student>
+      <id>21071A0445</id>
+      <name>POTLACHERUVU NIKITHA</name>
+    </student>
+    <student>
+      <id>21071A0446</id>
+      <name>PRANITHA MUSUNURU</name>
+    </student>
+    <student>
+      <id>21071A0447</id>
+      <name>RAMOJU VEERA BHADRA SUBRAHMANYA RAGHAVAMSI</name>
+    </student>
+    <student>
+      <id>21071A0448</id>
+      <name>SAI PRANEETH VASA</name>
+    </student>
+    <student>
+      <id>21071A0449</id>
+      <name>SAMBARI USHA RANI</name>
+    </student>
+    <student>
+      <id>21071A0450</id>
+      <name>SHAIK MEHTAB</name>
+    </student>
+    <student>
+      <id>21071A0451</id>
+      <name>SHAIK MOHAMMED SALIQ</name>
+    </student>
+    <student>
+      <id>21071A0452</id>
+      <name>SHANMUKA SAI PRANEETH GUDAPATI</name>
+    </student>
+    <student>
+      <id>21071A0453</id>
+      <name>SIRIKONDA BHARATH</name>
+    </student>
+    <student>
+      <id>21071A0454</id>
+      <name>SRIRAMULA MADHU</name>
+    </student>
+    <student>
+      <id>21071A0455</id>
+      <name>THADIKAMALLA RAKESH</name>
+    </student>
+    <student>
+      <id>21071A0456</id>
+      <name>THATVAM CHIRANJEEVI</name>
+    </student>
+    <student>
+      <id>21071A0457</id>
+      <name>TIPIRISHETTI NAGADEEPIKA</name>
+    </student>
+    <student>
+      <id>21071A0458</id>
+      <name>UPPALAPATI SAI SUDEEP</name>
+    </student>
+    <student>
+      <id>21071A0459</id>
+      <name>V PHANITHA SREE</name>
+    </student>
+    <student>
+      <id>21071A0460</id>
+      <name>VASAM KIRAN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0461</id>
+      <name>VASIREDDY KARTHIKEYA</name>
+    </student>
+    <student>
+      <id>21071A0462</id>
+      <name>VEMPARALA SAI NAGA SRI SAMHITHA</name>
+    </student>
+    <student>
+      <id>21071A0463</id>
+      <name>Y VISHWA PRIYA REDDY</name>
+    </student>
+    <student>
+      <id>21071A0464</id>
+      <name>YAMSANI PRANAV</name>
+    </student>
+    <student>
+      <id>21071A0465</id>
+      <name>ZILLELLAMUDI HEMANT</name>
+    </student>
+  </section>
+  <section id='B'>
+    <student>
+      <id>21071A0466</id>
+      <name>ALLAKA SAI JOTHSNA SRI</name>
+    </student>
+    <student>
+      <id>21071A0467</id>
+      <name>AMGOTH BHOOMIKA</name>
+    </student>
+    <student>
+      <id>21071A0468</id>
+      <name>APPAREDDYGUDEM VAMSHI</name>
+    </student>
+    <student>
+      <id>21071A0469</id>
+      <name>ARCOT SUKUMAR JAHNAVI</name>
+    </student>
+    <student>
+      <id>21071A0470</id>
+      <name>ARIVENI KUSUMA SOWBHAGYA SREE</name>
+    </student>
+    <student>
+      <id>21071A0471</id>
+      <name>B L S LOKESH</name>
+    </student>
+    <student>
+      <id>21071A0472</id>
+      <name>B SHIVA TEJA</name>
+    </student>
+    <student>
+      <id>21071A0473</id>
+      <name>BANOTH SHAILAJA</name>
+    </student>
+    <student>
+      <id>21071A0474</id>
+      <name>BIYYALA SAATHVIK</name>
+    </student>
+    <student>
+      <id>21071A0475</id>
+      <name>BOYA LAVANYA</name>
+    </student>
+    <student>
+      <id>21071A0476</id>
+      <name>CHITIKELA GANESH PAVAN</name>
+    </student>
+    <student>
+      <id>21071A0477</id>
+      <name>D PHANINDRA</name>
+    </student>
+    <student>
+      <id>21071A0478</id>
+      <name>DASARI SHRAVANI</name>
+    </student>
+    <student>
+      <id>21071A0479</id>
+      <name>DATLA PUNEETH VARMA</name>
+    </student>
+    <student>
+      <id>21071A0480</id>
+      <name>DEVANA BHARGAVI</name>
+    </student>
+    <student>
+      <id>21071A0481</id>
+      <name>DHARA JAHNAVI DEVI</name>
+    </student>
+    <student>
+      <id>21071A0482</id>
+      <name>DUBA VEDA PRIYA</name>
+    </student>
+    <student>
+      <id>21071A0483</id>
+      <name>EKKALA YOSHITHA</name>
+    </student>
+    <student>
+      <id>21071A0484</id>
+      <name>ERROJU NAVEEN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0485</id>
+      <name>GADIPALLI THARUNTEJ</name>
+    </student>
+    <student>
+      <id>21071A0486</id>
+      <name>GALIDEVARA CHARAN RAM</name>
+    </student>
+    <student>
+      <id>21071A0487</id>
+      <name>GHATTAMANENI MANJUSHA</name>
+    </student>
+    <student>
+      <id>21071A0488</id>
+      <name>GOMARAM SHAILIMA</name>
+    </student>
+    <student>
+      <id>21071A0489</id>
+      <name>GUNDARAM HARSHAVARDHAN</name>
+    </student>
+    <student>
+      <id>21071A0490</id>
+      <name>ADITHYA PHANITHOTA</name>
+    </student>
+    <student>
+      <id>21071A0491</id>
+      <name>HARSHINI INTURI</name>
+    </student>
+    <student>
+      <id>21071A0492</id>
+      <name>HAZARI SREEJA</name>
+    </student>
+    <student>
+      <id>21071A0493</id>
+      <name>JANJIRALA ROHAN</name>
+    </student>
+    <student>
+      <id>21071A0494</id>
+      <name>KALLEPELLI YASHWANTH</name>
+    </student>
+    <student>
+      <id>21071A0495</id>
+      <name>KALLURI TANUJA</name>
+    </student>
+    <student>
+      <id>21071A0496</id>
+      <name>KASOJU HARSHITHA</name>
+    </student>
+    <student>
+      <id>21071A0497</id>
+      <name>KOMARAM HARI CHANDRA PRASAD</name>
+    </student>
+    <student>
+      <id>21071A0498</id>
+      <name>KONDAM VINOD</name>
+    </student>
+    <student>
+      <id>21071A0499</id>
+      <name>KUNURU SATHVIK</name>
+    </student>
+    <student>
+      <id>21071A04A0</id>
+      <name>LAVU YUKTHA CHOWDARY</name>
+    </student>
+    <student>
+      <id>21071A04A1</id>
+      <name>M JAFFREY MOSES</name>
+    </student>
+    <student>
+      <id>21071A04A2</id>
+      <name>M SAI SAHITHY</name>
+    </student>
+    <student>
+      <id>21071A04A3</id>
+      <name>MEKA GAYATHRI</name>
+    </student>
+    <student>
+      <id>21071A04A4</id>
+      <name>METTU JOSHNA</name>
+    </student>
+    <student>
+      <id>21071A04A5</id>
+      <name>MOHAMMED NIZAMUDDIN</name>
+    </student>
+    <student>
+      <id>21071A04A6</id>
+      <name>MUTTANNAGARU PRANAV REDDY</name>
+    </student>
+    <student>
+      <id>21071A04A7</id>
+      <name>NAGULAPATI SREYA</name>
+    </student>
+    <student>
+      <id>21071A04A8</id>
+      <name>NAKKA SHIVANI</name>
+    </student>
+    <student>
+      <id>21071A04A9</id>
+      <name>NAMILE PRADEEP KUMAR</name>
+    </student>
+    <student>
+      <id>21071A04B0</id>
+      <name>PALVADI SRAVYA GEETHIKA</name>
+    </student>
+    <student>
+      <id>21071A04B1</id>
+      <name>PARAMJOTH SINGH</name>
+    </student>
+    <student>
+      <id>21071A04B2</id>
+      <name>PATTEM GURU MAHESH</name>
+    </student>
+    <student>
+      <id>21071A04B3</id>
+      <name>PRODDUTURI SIRI CHANDANA</name>
+    </student>
+    <student>
+      <id>21071A04B4</id>
+      <name>PUPPALA SOORAJ</name>
+    </student>
+    <student>
+      <id>21071A04B5</id>
+      <name>R ANAND</name>
+    </student>
+    <student>
+      <id>21071A04B6</id>
+      <name>RAVULA SAKETH RAM</name>
+    </student>
+    <student>
+      <id>21071A04B7</id>
+      <name>S SAI MADHAVA REDDY</name>
+    </student>
+    <student>
+      <id>21071A04B8</id>
+      <name>SAHASRA KAMBAM</name>
+    </student>
+    <student>
+      <id>21071A04B9</id>
+      <name>SAMINENI BHAVYA SRI</name>
+    </student>
+    <student>
+      <id>21071A04C0</id>
+      <name>SANJANA MOHITE</name>
+    </student>
+    <student>
+      <id>21071A04C2</id>
+      <name>SHAIK AFREEN</name>
+    </student>
+    <student>
+      <id>21071A04C3</id>
+      <name>SHIVARATHRI PRAGATHI</name>
+    </student>
+    <student>
+      <id>21071A04C4</id>
+      <name>SIVA AKSHITH BHUKYA</name>
+    </student>
+    <student>
+      <id>21071A04C5</id>
+      <name>THIRICHI SRILAXMI</name>
+    </student>
+    <student>
+      <id>21071A04C6</id>
+      <name>TUMU SAI SHIVANI</name>
+    </student>
+    <student>
+      <id>21071A04C7</id>
+      <name>UNDAVALLI VAIBHAVA REDDY</name>
+    </student>
+    <student>
+      <id>21071A04C8</id>
+      <name>VASKURI BHARGAV</name>
+    </student>
+    <student>
+      <id>21071A04C9</id>
+      <name>YETUKURI JAYA SAI</name>
+    </student>
+  </section>
+  <section id='C'>
+    <student>
+      <id>21071A04D0</id>
+      <name>A JAGAN</name>
+    </student>
+    <student>
+      <id>21071A04D1</id>
+      <name>ADEPU SANGEETHA LAXMI</name>
+    </student>
+    <student>
+      <id>21071A04D2</id>
+      <name>AKANKSHA NITIN KABRA</name>
+    </student>
+    <student>
+      <id>21071A04D3</id>
+      <name>AMGOTH SRINU</name>
+    </student>
+    <student>
+      <id>21071A04D4</id>
+      <name>BADUGULA AKHILESH</name>
+    </student>
+    <student>
+      <id>21071A04D5</id>
+      <name>BALIJAPALLY ADHARSH REDDY</name>
+    </student>
+    <student>
+      <id>21071A04D6</id>
+      <name>BANDARAM RAJESHWARI</name>
+    </student>
+    <student>
+      <id>21071A04D7</id>
+      <name>BARAMA VEDA HARSHITHA</name>
+    </student>
+    <student>
+      <id>21071A04D8</id>
+      <name>BHOOMIKA BOBBILIGAMA</name>
+    </student>
+    <student>
+      <id>21071A04D9</id>
+      <name>CHAPALA SRIHARI</name>
+    </student>
+    <student>
+      <id>21071A04E0</id>
+      <name>CHERABUDDI RAGHU VAMSH</name>
+    </student>
+    <student>
+      <id>21071A04E1</id>
+      <name>CHUNDURI RAMAMURTHY</name>
+    </student>
+    <student>
+      <id>21071A04E2</id>
+      <name>DARA DILEEP KUMAR</name>
+    </student>
+    <student>
+      <id>21071A04E3</id>
+      <name>DARA SAI JEEVAN SRIKAR</name>
+    </student>
+    <student>
+      <id>21071A04E4</id>
+      <name>DESU SUVARNA AISHWARYA LAKSHMI</name>
+    </student>
+    <student>
+      <id>21071A04E5</id>
+      <name>DOKKA SAI SRIKAR</name>
+    </student>
+    <student>
+      <id>21071A04E6</id>
+      <name>EDDU VENUGOPAL</name>
+    </student>
+    <student>
+      <id>21071A04E7</id>
+      <name>G HARSHITA</name>
+    </student>
+    <student>
+      <id>21071A04E8</id>
+      <name>GADDAM SARYU VARDHAN</name>
+    </student>
+    <student>
+      <id>21071A04E9</id>
+      <name>GANESUNI JASWANTH SAI</name>
+    </student>
+    <student>
+      <id>21071A04F0</id>
+      <name>GOLCONDA BHAVANI</name>
+    </student>
+    <student>
+      <id>21071A04F1</id>
+      <name>GOUDA VARSHINI</name>
+    </student>
+    <student>
+      <id>21071A04F2</id>
+      <name>GUDURU NIHARIKA</name>
+    </student>
+    <student>
+      <id>21071A04F3</id>
+      <name>HAKEEM AVILASH</name>
+    </student>
+    <student>
+      <id>21071A04F4</id>
+      <name>JADHAV NIKHIL</name>
+    </student>
+    <student>
+      <id>21071A04F5</id>
+      <name>JAVANGULA VENKAT SAI KARTHIKEYA</name>
+    </student>
+    <student>
+      <id>21071A04F6</id>
+      <name>KASI BHANU KRISHNA SRI NITHIN</name>
+    </student>
+    <student>
+      <id>21071A04F7</id>
+      <name>KASUKHELA PRANAV</name>
+    </student>
+    <student>
+      <id>21071A04F8</id>
+      <name>KATKAM SHASHI VARDHAN</name>
+    </student>
+    <student>
+      <id>21071A04F9</id>
+      <name>KEMMASARAM SURESH</name>
+    </student>
+    <student>
+      <id>21071A04G0</id>
+      <name>KOMANDURI JAYARAM</name>
+    </student>
+    <student>
+      <id>21071A04G1</id>
+      <name>KOTHAKAPU VAMSHIDHAR</name>
+    </student>
+    <student>
+      <id>21071A04G2</id>
+      <name>KURUGANTI SREE SESHA AKSHITHA</name>
+    </student>
+    <student>
+      <id>21071A04G3</id>
+      <name>MADAVARAM SUMANTH KUMAR</name>
+    </student>
+    <student>
+      <id>21071A04G4</id>
+      <name>MAIDAMSHETTY RAHUL</name>
+    </student>
+    <student>
+      <id>21071A04G5</id>
+      <name>MANDALA PRADEEPKUMAR</name>
+    </student>
+    <student>
+      <id>21071A04G6</id>
+      <name>MIDIDODDI TEJASWI</name>
+    </student>
+    <student>
+      <id>21071A04G7</id>
+      <name>MOHAMMAD NAZEERUDDIN SHAH</name>
+    </student>
+    <student>
+      <id>21071A04G8</id>
+      <name>MOHEMED KARIMUNNISA</name>
+    </student>
+    <student>
+      <id>21071A04G9</id>
+      <name>MUTLURI ANEESHA</name>
+    </student>
+    <student>
+      <id>21071A04H0</id>
+      <name>NARAGANI KALYANI</name>
+    </student>
+    <student>
+      <id>21071A04H1</id>
+      <name>NATI YAMINI MEERA</name>
+    </student>
+    <student>
+      <id>21071A04H2</id>
+      <name>P ABHISHEK</name>
+    </student>
+    <student>
+      <id>21071A04H3</id>
+      <name>PACHAVA ANUNYA</name>
+    </student>
+    <student>
+      <id>21071A04H4</id>
+      <name>PALLAPU ANIL</name>
+    </student>
+    <student>
+      <id>21071A04H5</id>
+      <name>PATHI THARUN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A04H6</id>
+      <name>POLURI KAVYA SREE</name>
+    </student>
+    <student>
+      <id>21071A04H7</id>
+      <name>PUDURI SAI HARSHADEEP</name>
+    </student>
+    <student>
+      <id>21071A04H8</id>
+      <name>RACHURI SAI PRANEETH GUPTA</name>
+    </student>
+    <student>
+      <id>21071A04H9</id>
+      <name>S LASYA PRIYA</name>
+    </student>
+    <student>
+      <id>21071A04J0</id>
+      <name>SARIKONDA BRAHMINI BHATT</name>
+    </student>
+    <student>
+      <id>21071A04J1</id>
+      <name>SHAKAM CHAKRAVARTHI</name>
+    </student>
+    <student>
+      <id>21071A04J2</id>
+      <name>SINGIREDDY NIMITHA</name>
+    </student>
+    <student>
+      <id>21071A04J3</id>
+      <name>SURABHI SIDDHARTHA</name>
+    </student>
+    <student>
+      <id>21071A04J4</id>
+      <name>T SAI PRITHVI</name>
+    </student>
+    <student>
+      <id>21071A04J5</id>
+      <name>TEJASWINI KANDIMALLA</name>
+    </student>
+    <student>
+      <id>21071A04J6</id>
+      <name>THATI SAKETH KUMAR</name>
+    </student>
+    <student>
+      <id>21071A04J7</id>
+      <name>TITHI CHETAN MAHAJANI</name>
+    </student>
+    <student>
+      <id>21071A04J8</id>
+      <name>VALLURU KALYAN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A04J9</id>
+      <name>VANGALA LAXMI PRIYA</name>
+    </student>
+    <student>
+      <id>21071A04K0</id>
+      <name>VANKUDOTHU MAHESH</name>
+    </student>
+    <student>
+      <id>21071A04K1</id>
+      <name>VARANASI S R MANIKANTA SARAVANA KOUSHIK</name>
+    </student>
+    <student>
+      <id>21071A04K2</id>
+      <name>VISLAVATH VINOD</name>
+    </student>
+    <student>
+      <id>21071A04K3</id>
+      <name>VOLLALA HARSHITH KUMAR</name>
+    </student>
+  </section>
+  <section id='D'>
+    <student>
+      <id>21071A04K4</id>
+      <name>ADE VASAVI PATEL</name>
+    </student>
+    <student>
+      <id>21071A04K5</id>
+      <name>ADUPA SAHASRA</name>
+    </student>
+    <student>
+      <id>21071A04K6</id>
+      <name>AKSHITHA GANJI</name>
+    </student>
+    <student>
+      <id>21071A04K7</id>
+      <name>AMBATI SHRAVAN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A04K8</id>
+      <name>ANCHA SHARAVAN</name>
+    </student>
+    <student>
+      <id>21071A04K9</id>
+      <name>APURI SAI VARDHAN REDDY</name>
+    </student>
+    <student>
+      <id>21071A04M0</id>
+      <name>ARIKATLA RAHUL CHOWDARY</name>
+    </student>
+    <student>
+      <id>21071A04M1</id>
+      <name>ATLA YASHWANTH</name>
+    </student>
+    <student>
+      <id>21071A04M2</id>
+      <name>BALLA SIVA SAI</name>
+    </student>
+    <student>
+      <id>21071A04M3</id>
+      <name>BANDLA ABHISHIKTH HIMANSHU</name>
+    </student>
+    <student>
+      <id>21071A04M4</id>
+      <name>BORANCHI HARI PRIYA</name>
+    </student>
+    <student>
+      <id>21071A04M5</id>
+      <name>BUVANAGIRI SAI RAJ</name>
+    </student>
+    <student>
+      <id>21071A04M6</id>
+      <name>BYAGARI NIKHILESH</name>
+    </student>
+    <student>
+      <id>21071A04M7</id>
+      <name>CHIDURALA SAITEJA</name>
+    </student>
+    <student>
+      <id>21071A04M8</id>
+      <name>CHIMMA  AJAY KUMAR</name>
+    </student>
+    <student>
+      <id>21071A04M9</id>
+      <name>DAMMAGARI LAHARI</name>
+    </student>
+    <student>
+      <id>21071A04N0</id>
+      <name>GANJI BHUVANA RISHITHA</name>
+    </student>
+    <student>
+      <id>21071A04N1</id>
+      <name>GANJI SHIVANI</name>
+    </student>
+    <student>
+      <id>21071A04N2</id>
+      <name>GATTU SRIKAR SHARMA</name>
+    </student>
+    <student>
+      <id>21071A04N3</id>
+      <name>IJJAGIRI SUSHMANTH</name>
+    </student>
+    <student>
+      <id>21071A04N4</id>
+      <name>IMANDI NAGA VENKATA KAUSHIK</name>
+    </student>
+    <student>
+      <id>21071A04N5</id>
+      <name>JOGINI SHRUTHI</name>
+    </student>
+    <student>
+      <id>21071A04N6</id>
+      <name>JULURU RAM SAI</name>
+    </student>
+    <student>
+      <id>21071A04N7</id>
+      <name>KAKARLAPUDI GEETHIKA</name>
+    </student>
+    <student>
+      <id>21071A04N8</id>
+      <name>KANDELA ABHILASH</name>
+    </student>
+    <student>
+      <id>21071A04N9</id>
+      <name>KANTE ROHAN UMA SHANKAR</name>
+    </student>
+    <student>
+      <id>21071A04P0</id>
+      <name>KASLABAD SRIKAR</name>
+    </student>
+    <student>
+      <id>21071A04P1</id>
+      <name>KATHAM VIGNAN</name>
+    </student>
+    <student>
+      <id>21071A04P2</id>
+      <name>KATLA ARUN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A04P3</id>
+      <name>KOLIPAKA HARSHIL REDDY</name>
+    </student>
+    <student>
+      <id>21071A04P4</id>
+      <name>KOTHAPALLY NAGASRIVARDHAN</name>
+    </student>
+    <student>
+      <id>21071A04P5</id>
+      <name>KOTHAWALA YOGISHWAR SAI</name>
+    </student>
+    <student>
+      <id>21071A04P6</id>
+      <name>LANKA RAMA KRUTI</name>
+    </student>
+    <student>
+      <id>21071A04P7</id>
+      <name>MADAVARAM BHANU CHANDHAR</name>
+    </student>
+    <student>
+      <id>21071A04P8</id>
+      <name>MAMILLAPALLI DEEPIKA</name>
+    </student>
+    <student>
+      <id>21071A04P9</id>
+      <name>MANDAVA TIRU VENKATA NAGASAI TRIGUN</name>
+    </student>
+    <student>
+      <id>21071A04Q0</id>
+      <name>MANDEPUDI SNEHITH KRISHNA</name>
+    </student>
+    <student>
+      <id>21071A04Q1</id>
+      <name>MEERIPELLY NAVYA</name>
+    </student>
+    <student>
+      <id>21071A04Q2</id>
+      <name>METLA RENU NAGASRI</name>
+    </student>
+    <student>
+      <id>21071A04Q3</id>
+      <name>MOTHUKURI SREYA</name>
+    </student>
+    <student>
+      <id>21071A04Q4</id>
+      <name>MOTLA KUNDHAN REDDY</name>
+    </student>
+    <student>
+      <id>21071A04Q5</id>
+      <name>MUNNANGI SUNDER SATHWIK</name>
+    </student>
+    <student>
+      <id>21071A04Q6</id>
+      <name>MUTTINENI DHARMA TEJA</name>
+    </student>
+    <student>
+      <id>21071A04Q7</id>
+      <name>NADAKUDITI SRIHARSHA</name>
+    </student>
+    <student>
+      <id>21071A04Q8</id>
+      <name>NISHIKA NETHALA</name>
+    </student>
+    <student>
+      <id>21071A04Q9</id>
+      <name>PALLERLA SRINIJA</name>
+    </student>
+    <student>
+      <id>21071A04R0</id>
+      <name>PASULA VAMSHI KRISHNA</name>
+    </student>
+    <student>
+      <id>21071A04R1</id>
+      <name>PEDDIBHOTLA ADITYA SARMA</name>
+    </student>
+    <student>
+      <id>21071A04R2</id>
+      <name>PENDAM TANVI</name>
+    </student>
+    <student>
+      <id>21071A04R3</id>
+      <name>PODDUTURI KAVYA REDDY</name>
+    </student>
+    <student>
+      <id>21071A04R4</id>
+      <name>RANA ESWAR SURYA</name>
+    </student>
+    <student>
+      <id>21071A04R5</id>
+      <name>RAYADURGAM VAISHNAVI</name>
+    </student>
+    <student>
+      <id>21071A04R6</id>
+      <name>SAKETH VISHWANATHAM</name>
+    </student>
+    <student>
+      <id>21071A04R7</id>
+      <name>SANGANI SINDHU</name>
+    </student>
+    <student>
+      <id>21071A04R8</id>
+      <name>SARVADE VIJAY GOVIND SAI</name>
+    </student>
+    <student>
+      <id>21071A04R9</id>
+      <name>SHAIK AAFRIN</name>
+    </student>
+    <student>
+      <id>21071A04T0</id>
+      <name>SIRIGADDE SHASHANK</name>
+    </student>
+    <student>
+      <id>21071A04T1</id>
+      <name>THOTA ABHIGYNA</name>
+    </student>
+    <student>
+      <id>21071A04T2</id>
+      <name>THUMMALA DEEPAK RAJA</name>
+    </student>
+    <student>
+      <id>21071A04T3</id>
+      <name>THUPAKULA RANGANADH</name>
+    </student>
+    <student>
+      <id>21071A04T4</id>
+      <name>VARSHINI MATTA</name>
+    </student>
+    <student>
+      <id>21071A04T5</id>
+      <name>VASANTHAPURAM DINESH CHANDRA</name>
+    </student>
+    <student>
+      <id>21071A04T6</id>
+      <name>VETAPALEM VENKATA SAI</name>
+    </student>
+    <student>
+      <id>21071A04T7</id>
+      <name>VOOTLA SAI BHARATH</name>
+    </student>
+  </section>
+</branch>
+<branch id='EEE' name='Electrical and Electronics Engineering'>
+  <section id='A'>
+    <student>
+      <id>21071A0201</id>
+      <name>ADICHERLA DINAKRUTH</name>
+    </student>
+    <student>
+      <id>21071A0202</id>
+      <name>AMGOTH BHASKAR</name>
+    </student>
+    <student>
+      <id>21071A0203</id>
+      <name>BANDALINTI VIGNESH</name>
+    </student>
+    <student>
+      <id>21071A0204</id>
+      <name>BATTHULA RITHVIK PRASAD</name>
+    </student>
+    <student>
+      <id>21071A0205</id>
+      <name>BIJJAVARAM SATHWIKA</name>
+    </student>
+    <student>
+      <id>21071A0206</id>
+      <name>BODA RAMYA SRI</name>
+    </student>
+    <student>
+      <id>21071A0207</id>
+      <name>BODA SHIVANI</name>
+    </student>
+    <student>
+      <id>21071A0208</id>
+      <name>BODDUPALLI PRATHIBA</name>
+    </student>
+    <student>
+      <id>21071A0209</id>
+      <name>BUSI GOWTHAM BALAJI</name>
+    </student>
+    <student>
+      <id>21071A0210</id>
+      <name>BUTUKURU LAKSHMI VENKATA OJASWIN REDDY</name>
+    </student>
+    <student>
+      <id>21071A0211</id>
+      <name>BYKANI PRAVEEN</name>
+    </student>
+    <student>
+      <id>21071A0212</id>
+      <name>CHEBROLU DEEPAK</name>
+    </student>
+    <student>
+      <id>21071A0213</id>
+      <name>CHILAKALA MOHAMMAD AFZAL</name>
+    </student>
+    <student>
+      <id>21071A0214</id>
+      <name>CHINOORI NANDAN REDDY</name>
+    </student>
+    <student>
+      <id>21071A0215</id>
+      <name>CHITIKENA SAI HARSHITHA</name>
+    </student>
+    <student>
+      <id>21071A0216</id>
+      <name>DADIGALA YOGENDHAR</name>
+    </student>
+    <student>
+      <id>21071A0217</id>
+      <name>DIDDI NIKHITHA</name>
+    </student>
+    <student>
+      <id>21071A0218</id>
+      <name>ENUKONDA SHASHANK REDDY</name>
+    </student>
+    <student>
+      <id>21071A0219</id>
+      <name>GADIPALLY RAJESH</name>
+    </student>
+    <student>
+      <id>21071A0220</id>
+      <name>GANJI MANASA</name>
+    </student>
+    <student>
+      <id>21071A0221</id>
+      <name>GOPIDI ANUGNA</name>
+    </student>
+    <student>
+      <id>21071A0222</id>
+      <name>JADALA VARSHITH</name>
+    </student>
+    <student>
+      <id>21071A0223</id>
+      <name>JAKKAM SRINITHYA</name>
+    </student>
+    <student>
+      <id>21071A0224</id>
+      <name>JETTEM SRINIVAS</name>
+    </student>
+    <student>
+      <id>21071A0225</id>
+      <name>JILLA SREEJA</name>
+    </student>
+    <student>
+      <id>21071A0226</id>
+      <name>KADALI JAYA SURYA</name>
+    </student>
+    <student>
+      <id>21071A0227</id>
+      <name>KANTE MANOJ</name>
+    </student>
+    <student>
+      <id>21071A0228</id>
+      <name>KATUKU LAXMI SNEHAL</name>
+    </student>
+    <student>
+      <id>21071A0229</id>
+      <name>KESANA JAYA SURYA</name>
+    </student>
+    <student>
+      <id>21071A0230</id>
+      <name>KORUTLA BHANUTEJA</name>
+    </student>
+    <student>
+      <id>21071A0231</id>
+      <name>KUCHAKULLA SIRI REDDY</name>
+    </student>
+    <student>
+      <id>21071A0232</id>
+      <name>KUNCHALA KAVYA</name>
+    </student>
+    <student>
+      <id>21071A0233</id>
+      <name>LAKHAMRAJU SAI CHANDU</name>
+    </student>
+    <student>
+      <id>21071A0234</id>
+      <name>MADAPATY KEERTHANA</name>
+    </student>
+    <student>
+      <id>21071A0235</id>
+      <name>MADDELA SHIVATHMIKA</name>
+    </student>
+    <student>
+      <id>21071A0236</id>
+      <name>MADOORI DHINAKAR SAGAR</name>
+    </student>
+    <student>
+      <id>21071A0237</id>
+      <name>MANNE SAI SANTHOSH</name>
+    </student>
+    <student>
+      <id>21071A0238</id>
+      <name>MAYALURU PREETHI</name>
+    </student>
+    <student>
+      <id>21071A0239</id>
+      <name>MIDDE KUSHAL KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0240</id>
+      <name>MULA SAHASRA</name>
+    </student>
+    <student>
+      <id>21071A0241</id>
+      <name>MULUGU RACHARLA NISHITHA</name>
+    </student>
+    <student>
+      <id>21071A0242</id>
+      <name>MUNIGANTI SUMANTH</name>
+    </student>
+    <student>
+      <id>21071A0243</id>
+      <name>MUNIGANTI VAMSHI KRISHNA</name>
+    </student>
+    <student>
+      <id>21071A0244</id>
+      <name>NANDAGIRI HARSHITH</name>
+    </student>
+    <student>
+      <id>21071A0245</id>
+      <name>NIMISHAKAVI A HRUSHIKESH SARMA</name>
+    </student>
+    <student>
+      <id>21071A0246</id>
+      <name>PAMMI JAYANTH MADHAV</name>
+    </student>
+    <student>
+      <id>21071A0247</id>
+      <name>PATHAPATI DEEKSHITHA REDDY</name>
+    </student>
+    <student>
+      <id>21071A0248</id>
+      <name>PATLOLLA ANJALI REDDY</name>
+    </student>
+    <student>
+      <id>21071A0249</id>
+      <name>PETLA SHINEY</name>
+    </student>
+    <student>
+      <id>21071A0250</id>
+      <name>PUTTA PRAMOD</name>
+    </student>
+    <student>
+      <id>21071A0251</id>
+      <name>RAIKINDI RAVI KISHORE</name>
+    </student>
+    <student>
+      <id>21071A0252</id>
+      <name>RASALA DHAWAN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0253</id>
+      <name>REDDIBOYINA SRIYA</name>
+    </student>
+    <student>
+      <id>21071A0254</id>
+      <name>RITURAJ SWAIN</name>
+    </student>
+    <student>
+      <id>21071A0255</id>
+      <name>SALENDRA MEGHANA</name>
+    </student>
+    <student>
+      <id>21071A0256</id>
+      <name>SHAIK MOHAMMED HUSSAIN</name>
+    </student>
+    <student>
+      <id>21071A0257</id>
+      <name>SURAKATTULA CHETAN</name>
+    </student>
+    <student>
+      <id>21071A0258</id>
+      <name>SYAMALA BHARATH REDDY</name>
+    </student>
+    <student>
+      <id>21071A0259</id>
+      <name>THALELMA KARTHIK</name>
+    </student>
+    <student>
+      <id>21071A0260</id>
+      <name>THAMBADI MANOJ KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0261</id>
+      <name>THUMMANDRU UDAY VENKAT</name>
+    </student>
+    <student>
+      <id>21071A0262</id>
+      <name>V MEENAKSHI</name>
+    </student>
+    <student>
+      <id>21071A0263</id>
+      <name>VARALA SAI ADHARSH</name>
+    </student>
+    <student>
+      <id>21071A0264</id>
+      <name>VULLENDULA SUDHARSHAN</name>
+    </student>
+    <student>
+      <id>21071A0265</id>
+      <name>YASHWANTH KUMAR VASAMPALLY</name>
+    </student>
+  </section>
+  <section id='B'>
+    <student>
+      <id>21071A0266</id>
+      <name>ASHOK NENAVATH</name>
+    </student>
+    <student>
+      <id>21071A0267</id>
+      <name>AUTI GURURAJ</name>
+    </student>
+    <student>
+      <id>21071A0268</id>
+      <name>B PREM SAI</name>
+    </student>
+    <student>
+      <id>21071A0269</id>
+      <name>BARMA NIKHIL RAJU</name>
+    </student>
+    <student>
+      <id>21071A0270</id>
+      <name>BHIMIREDDY MOHIT SAINATH REDDY</name>
+    </student>
+    <student>
+      <id>21071A0271</id>
+      <name>BHUKYA TEJO KIRAN</name>
+    </student>
+    <student>
+      <id>21071A0272</id>
+      <name>BOKKA MANASA LAKSHMI</name>
+    </student>
+    <student>
+      <id>21071A0273</id>
+      <name>BOMMENA HARTHIK REDDY</name>
+    </student>
+    <student>
+      <id>21071A0274</id>
+      <name>BOMMU PRANITH KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0275</id>
+      <name>BONDA ROHAN SAI</name>
+    </student>
+    <student>
+      <id>21071A0277</id>
+      <name>CHANDUBATLA ROHITH</name>
+    </student>
+    <student>
+      <id>21071A0278</id>
+      <name>CHENNAMADHAVUNI AKSHITHA</name>
+    </student>
+    <student>
+      <id>21071A0279</id>
+      <name>CHITTA AVANEESH KETAN</name>
+    </student>
+    <student>
+      <id>21071A0280</id>
+      <name>DEVA SRINITHA PATEL</name>
+    </student>
+    <student>
+      <id>21071A0281</id>
+      <name>DIVYA TUMMALA</name>
+    </student>
+    <student>
+      <id>21071A0282</id>
+      <name>DONGARI SAKETH</name>
+    </student>
+    <student>
+      <id>21071A0283</id>
+      <name>DOOREDDY ANUSHA REDDY</name>
+    </student>
+    <student>
+      <id>21071A0284</id>
+      <name>G SINDHU SRI</name>
+    </student>
+    <student>
+      <id>21071A0285</id>
+      <name>GADDI KAVYA SRI</name>
+    </student>
+    <student>
+      <id>21071A0286</id>
+      <name>GODUGU SUJAY</name>
+    </student>
+    <student>
+      <id>21071A0287</id>
+      <name>GOLLAPUDI SRIHARSHITHA</name>
+    </student>
+    <student>
+      <id>21071A0288</id>
+      <name>GOPAGANI SREE HARSHINI</name>
+    </student>
+    <student>
+      <id>21071A0289</id>
+      <name>GOPALA RAHUL</name>
+    </student>
+    <student>
+      <id>21071A0290</id>
+      <name>GOURAV THAKUR</name>
+    </student>
+    <student>
+      <id>21071A0291</id>
+      <name>GUDIPUDI THIRUMAL CHOWDARY</name>
+    </student>
+    <student>
+      <id>21071A0292</id>
+      <name>GUNTI AASHRITH</name>
+    </student>
+    <student>
+      <id>21071A0293</id>
+      <name>JANJIRALA NITHISH</name>
+    </student>
+    <student>
+      <id>21071A0294</id>
+      <name>JANJIRALA VARSHITH</name>
+    </student>
+    <student>
+      <id>21071A0295</id>
+      <name>JONNALAGADDA VASANTH REDDY</name>
+    </student>
+    <student>
+      <id>21071A0296</id>
+      <name>KATRAVATH VAMSHI</name>
+    </student>
+    <student>
+      <id>21071A0297</id>
+      <name>KONDA VINAY CHANDRA</name>
+    </student>
+    <student>
+      <id>21071A0298</id>
+      <name>KUDIPUDI UDAY KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0299</id>
+      <name>LAMBU SRINIDH REDDY</name>
+    </student>
+    <student>
+      <id>21071A02A0</id>
+      <name>MAMIDI SUPRIYA</name>
+    </student>
+    <student>
+      <id>21071A02A1</id>
+      <name>MANIKE SRINIVAS</name>
+    </student>
+    <student>
+      <id>21071A02A2</id>
+      <name>MD KHALEEL ULLAH</name>
+    </student>
+    <student>
+      <id>21071A02A3</id>
+      <name>MEDIDI RUTHWIK</name>
+    </student>
+    <student>
+      <id>21071A02A4</id>
+      <name>MOHAMMED ANAAS TAJ</name>
+    </student>
+    <student>
+      <id>21071A02A5</id>
+      <name>MUSKU VAMSHI</name>
+    </student>
+    <student>
+      <id>21071A02A6</id>
+      <name>MUTYA SRINIVAS SREYESH KUMAR</name>
+    </student>
+    <student>
+      <id>21071A02A7</id>
+      <name>NARA SNIGDHA</name>
+    </student>
+    <student>
+      <id>21071A02A8</id>
+      <name>NENAVATH BALU</name>
+    </student>
+    <student>
+      <id>21071A02A9</id>
+      <name>NENAVATH UDAY KIRAN</name>
+    </student>
+    <student>
+      <id>21071A02B0</id>
+      <name>NUNAVATH VISHNU</name>
+    </student>
+    <student>
+      <id>21071A02B1</id>
+      <name>ODDEM SHIVARCHANA</name>
+    </student>
+    <student>
+      <id>21071A02B2</id>
+      <name>PAILLA ADITHYA REDDY</name>
+    </student>
+    <student>
+      <id>21071A02B3</id>
+      <name>PENDLI HARSHINI</name>
+    </student>
+    <student>
+      <id>21071A02B4</id>
+      <name>PRANAV PATCHALA</name>
+    </student>
+    <student>
+      <id>21071A02B5</id>
+      <name>PRANEETH BHANDWALKAR</name>
+    </student>
+    <student>
+      <id>21071A02B7</id>
+      <name>RACHA SRUJAN SAI</name>
+    </student>
+    <student>
+      <id>21071A02B8</id>
+      <name>RANGU THRIDHAAR</name>
+    </student>
+    <student>
+      <id>21071A02B9</id>
+      <name>S KUNDANA PREETHI</name>
+    </student>
+    <student>
+      <id>21071A02C0</id>
+      <name>SAMANTHAPUDI DEEKSHITH</name>
+    </student>
+    <student>
+      <id>21071A02C1</id>
+      <name>SHAIK RIYAZ</name>
+    </student>
+    <student>
+      <id>21071A02C2</id>
+      <name>SHRUTI SURNAR</name>
+    </student>
+    <student>
+      <id>21071A02C3</id>
+      <name>SOHAN SINGH</name>
+    </student>
+    <student>
+      <id>21071A02C4</id>
+      <name>SUMERA KHAN</name>
+    </student>
+    <student>
+      <id>21071A02C5</id>
+      <name>THUMMA SOUMYA</name>
+    </student>
+    <student>
+      <id>21071A02C6</id>
+      <name>TIRUMALI VEDAVYAS</name>
+    </student>
+    <student>
+      <id>21071A02C7</id>
+      <name>VANGALA SHIVA KUMAR</name>
+    </student>
+    <student>
+      <id>21071A02C8</id>
+      <name>VASUPALLI SAI KUMAR</name>
+    </student>
+    <student>
+      <id>21071A02C9</id>
+      <name>YARAM SAI MOHAN REDDY</name>
+    </student>
+    <student>
+      <id>21071A02D0</id>
+      <name>YARLAGADDA PRASHANTH</name>
+    </student>
+  </section>
+</branch>
+<branch id='IT' name='Information Technology'>
+  <section id='A'>
+    <student>
+      <id>21071A1201</id>
+      <name>ADISHANKAR BHAT</name>
+    </student>
+    <student>
+      <id>21071A1202</id>
+      <name>ADLA SAI KARTHIK</name>
+    </student>
+    <student>
+      <id>21071A1203</id>
+      <name>AKULA SURYA TEJA</name>
+    </student>
+    <student>
+      <id>21071A1204</id>
+      <name>ALAPATI DURGA SURYA KRISHNA TEJA</name>
+    </student>
+    <student>
+      <id>21071A1205</id>
+      <name>ALLADA MOHANA VENKATA HARSHA VARDHAN</name>
+    </student>
+    <student>
+      <id>21071A1206</id>
+      <name>ANANDAS ABHIRAM</name>
+    </student>
+    <student>
+      <id>21071A1207</id>
+      <name>BADDAM HARSHAVARDHAN REDDY</name>
+    </student>
+    <student>
+      <id>21071A1208</id>
+      <name>BANOTH RAMSAI</name>
+    </student>
+    <student>
+      <id>21071A1209</id>
+      <name>BASVOJU VIKRANTH</name>
+    </student>
+    <student>
+      <id>21071A1210</id>
+      <name>BODAKUNTLA ABHIRAM</name>
+    </student>
+    <student>
+      <id>21071A1211</id>
+      <name>BOMMERABOINA AJAY KUMAR</name>
+    </student>
+    <student>
+      <id>21071A1212</id>
+      <name>CHENNA MANOJ KUMAR</name>
+    </student>
+    <student>
+      <id>21071A1213</id>
+      <name>CHILLIMUNTA DITHISHA</name>
+    </student>
+    <student>
+      <id>21071A1214</id>
+      <name>CHINTA N V D PRASHANTH</name>
+    </student>
+    <student>
+      <id>21071A1215</id>
+      <name>DUKANAM AKHILA</name>
+    </student>
+    <student>
+      <id>21071A1216</id>
+      <name>EMMADI PRASHANTH</name>
+    </student>
+    <student>
+      <id>21071A1217</id>
+      <name>ERIKIREDDY VARSHITHA</name>
+    </student>
+    <student>
+      <id>21071A1218</id>
+      <name>GANTI DARIAN VIVEK</name>
+    </student>
+    <student>
+      <id>21071A1219</id>
+      <name>GUNDA NITHISHA</name>
+    </student>
+    <student>
+      <id>21071A1220</id>
+      <name>GUNDETI RAVITEJA</name>
+    </student>
+    <student>
+      <id>21071A1221</id>
+      <name>HARIKA KESHABOINA</name>
+    </student>
+    <student>
+      <id>21071A1222</id>
+      <name>IMADABATHUNI SUHRUTHA</name>
+    </student>
+    <student>
+      <id>21071A1223</id>
+      <name>JANGIDI VINISH REDDY</name>
+    </student>
+    <student>
+      <id>21071A1224</id>
+      <name>JANJIRALA SAISHIVA</name>
+    </student>
+    <student>
+      <id>21071A1225</id>
+      <name>KADATHALA RATHNAKAR REDDY</name>
+    </student>
+    <student>
+      <id>21071A1226</id>
+      <name>KANURI BHARATH CHANDRA CHOWDARY</name>
+    </student>
+    <student>
+      <id>21071A1227</id>
+      <name>KEERTHI SAI KIRAN</name>
+    </student>
+    <student>
+      <id>21071A1228</id>
+      <name>KOLANU SHIVASAI KUMAR</name>
+    </student>
+    <student>
+      <id>21071A1229</id>
+      <name>KOMURAVELLI SAMRITH VAS</name>
+    </student>
+    <student>
+      <id>21071A1230</id>
+      <name>KONDA SAIKRISHNA</name>
+    </student>
+    <student>
+      <id>21071A1231</id>
+      <name>KURRA HOMAL VENKATA KRISHNA</name>
+    </student>
+    <student>
+      <id>21071A1232</id>
+      <name>LAKSHMI RAJA RAJESHWARI MUTTE</name>
+    </student>
+    <student>
+      <id>21071A1233</id>
+      <name>LENKALAPELLI VARUNESH</name>
+    </student>
+    <student>
+      <id>21071A1234</id>
+      <name>MANOJ KUMAR MOHAN</name>
+    </student>
+    <student>
+      <id>21071A1235</id>
+      <name>MAPATI GANESH SAI</name>
+    </student>
+    <student>
+      <id>21071A1236</id>
+      <name>MASIPEDD VIKATH CHENDRA</name>
+    </student>
+    <student>
+      <id>21071A1237</id>
+      <name>MOHAMMED MUNAFF</name>
+    </student>
+    <student>
+      <id>21071A1238</id>
+      <name>MUPPARAJU VIGNESH CHOWDARY</name>
+    </student>
+    <student>
+      <id>21071A1239</id>
+      <name>MUSAPURI SAIRAJ</name>
+    </student>
+    <student>
+      <id>21071A1240</id>
+      <name>NAINI SUDEEPTHI</name>
+    </student>
+    <student>
+      <id>21071A1241</id>
+      <name>NALLA ARAVIND</name>
+    </student>
+    <student>
+      <id>21071A1242</id>
+      <name>NALLA NAREN REDDY</name>
+    </student>
+    <student>
+      <id>21071A1243</id>
+      <name>NEMANI SRILEKHA</name>
+    </student>
+    <student>
+      <id>21071A1244</id>
+      <name>NETHIKUNTA NARESH</name>
+    </student>
+    <student>
+      <id>21071A1245</id>
+      <name>NIMMA SHIVA KETHAN REDDY</name>
+    </student>
+    <student>
+      <id>21071A1246</id>
+      <name>PAPPULA VENKATA NARASIMHA REDDY</name>
+    </student>
+    <student>
+      <id>21071A1247</id>
+      <name>PARVATHAM RENAIAH</name>
+    </student>
+    <student>
+      <id>21071A1248</id>
+      <name>PILLI PAVAN KALYAN</name>
+    </student>
+    <student>
+      <id>21071A1249</id>
+      <name>PRATHAPAGIRI HARISH</name>
+    </student>
+    <student>
+      <id>21071A1250</id>
+      <name>PUVVALA JOGEESWARA VENKATA NAGA SAI</name>
+    </student>
+    <student>
+      <id>21071A1251</id>
+      <name>RAJABOINA PAVANI</name>
+    </student>
+    <student>
+      <id>21071A1252</id>
+      <name>SANGARS ANUHYA SRESTHA</name>
+    </student>
+    <student>
+      <id>21071A1253</id>
+      <name>SARA RISHIKESH</name>
+    </student>
+    <student>
+      <id>21071A1254</id>
+      <name>SIDDAMSETTY VINOOTHNA</name>
+    </student>
+    <student>
+      <id>21071A1255</id>
+      <name>SIRIGIRI DHRUVITHA</name>
+    </student>
+    <student>
+      <id>21071A1256</id>
+      <name>SIVARATHRI CHANDRA KETHAN</name>
+    </student>
+    <student>
+      <id>21071A1257</id>
+      <name>SOURABH KUMAR</name>
+    </student>
+    <student>
+      <id>21071A1258</id>
+      <name>SRUTHI MURALIDHARAN</name>
+    </student>
+    <student>
+      <id>21071A1259</id>
+      <name>T HARIKA</name>
+    </student>
+    <student>
+      <id>21071A1260</id>
+      <name>THOTA SAI PHANEENDRA SAGAR</name>
+    </student>
+    <student>
+      <id>21071A1261</id>
+      <name>VALGIRI SRIVARSHA</name>
+    </student>
+    <student>
+      <id>21071A1262</id>
+      <name>VIDALA THRISHA</name>
+    </student>
+    <student>
+      <id>21071A1263</id>
+      <name>VONTARY RUTHVIJ REDDY</name>
+    </student>
+    <student>
+      <id>21071A1264</id>
+      <name>VYDHA NITEESHA</name>
+    </student>
+    <student>
+      <id>21071A1265</id>
+      <name>YALAVARTHI NEHA</name>
+    </student>
+  </section>
+  <section id='B'>
+    <student>
+      <id>21071A1266</id>
+      <name>AKKULURI MAHESH REDDY</name>
+    </student>
+    <student>
+      <id>21071A1267</id>
+      <name>ALLANKI ARUN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A1268</id>
+      <name>ANANTHULA LOKESH</name>
+    </student>
+    <student>
+      <id>21071A1269</id>
+      <name>BANDARU TEJASWINI</name>
+    </student>
+    <student>
+      <id>21071A1270</id>
+      <name>BELLURI SRI CHAANEKYA</name>
+    </student>
+    <student>
+      <id>21071A1271</id>
+      <name>BIBIREDDY AASHRITHA</name>
+    </student>
+    <student>
+      <id>21071A1272</id>
+      <name>BILLAKANTI KRISHNA SAI</name>
+    </student>
+    <student>
+      <id>21071A1273</id>
+      <name>CHENGALWA ABIJEETH SAI</name>
+    </student>
+    <student>
+      <id>21071A1274</id>
+      <name>CHETTY TRISHA</name>
+    </student>
+    <student>
+      <id>21071A1275</id>
+      <name>CHILLA SRIVAIBHAV</name>
+    </student>
+    <student>
+      <id>21071A1276</id>
+      <name>CHIMPANNA SAI PRANAV</name>
+    </student>
+    <student>
+      <id>21071A1277</id>
+      <name>CHITTIPROLU SURYATEJA</name>
+    </student>
+    <student>
+      <id>21071A1278</id>
+      <name>DENKADA VAIDEHI</name>
+    </student>
+    <student>
+      <id>21071A1279</id>
+      <name>DONGHISHARPU VARDHAN BABU</name>
+    </student>
+    <student>
+      <id>21071A1280</id>
+      <name>DUMPA VARSHITHA</name>
+    </student>
+    <student>
+      <id>21071A1281</id>
+      <name>GADDALA SNEHITH</name>
+    </student>
+    <student>
+      <id>21071A1282</id>
+      <name>GADDE AAKASH</name>
+    </student>
+    <student>
+      <id>21071A1283</id>
+      <name>GADILA DURGA PRASAD</name>
+    </student>
+    <student>
+      <id>21071A1284</id>
+      <name>GANTE SHASHIKANTH</name>
+    </student>
+    <student>
+      <id>21071A1285</id>
+      <name>JASWANTH REDDY MADIREDDY</name>
+    </student>
+    <student>
+      <id>21071A1286</id>
+      <name>K ABHIRAM</name>
+    </student>
+    <student>
+      <id>21071A1287</id>
+      <name>KAIPA SOHAN SAI PRANEETH</name>
+    </student>
+    <student>
+      <id>21071A1288</id>
+      <name>KALMOORI ABHINAY</name>
+    </student>
+    <student>
+      <id>21071A1289</id>
+      <name>KATEPALLY VARSHITHA</name>
+    </student>
+    <student>
+      <id>21071A1290</id>
+      <name>KOTAGIRI SAI ROSHINI</name>
+    </student>
+    <student>
+      <id>21071A1291</id>
+      <name>KRITIKA MALLIKARJUN MUTAGAR</name>
+    </student>
+    <student>
+      <id>21071A1292</id>
+      <name>LAGISHETTI ASHWITHA</name>
+    </student>
+    <student>
+      <id>21071A1293</id>
+      <name>MANASVI MIRYALA</name>
+    </student>
+    <student>
+      <id>21071A1294</id>
+      <name>MARADANA SAI MEGHANA</name>
+    </student>
+    <student>
+      <id>21071A1295</id>
+      <name>MAREEDU SRIKANTH GOWD</name>
+    </student>
+    <student>
+      <id>21071A1296</id>
+      <name>MASANIPALLI SAGARIKA</name>
+    </student>
+    <student>
+      <id>21071A1297</id>
+      <name>METTU MANI ROHITH YADAV</name>
+    </student>
+    <student>
+      <id>21071A1298</id>
+      <name>MODEM ABHINAV</name>
+    </student>
+    <student>
+      <id>21071A1299</id>
+      <name>MOHD SOHAIL AKHTER</name>
+    </student>
+    <student>
+      <id>21071A12A0</id>
+      <name>MOLUGU SRIKRUTHI</name>
+    </student>
+    <student>
+      <id>21071A12A1</id>
+      <name>MOUNALIKA SAI KANTHETI</name>
+    </student>
+    <student>
+      <id>21071A12A2</id>
+      <name>MURALI BHUKYA</name>
+    </student>
+    <student>
+      <id>21071A12A3</id>
+      <name>MURIKI SUMITH</name>
+    </student>
+    <student>
+      <id>21071A12A4</id>
+      <name>N SRAVYA REDDY</name>
+    </student>
+    <student>
+      <id>21071A12A5</id>
+      <name>NAGUNOORI SAI SHARATH</name>
+    </student>
+    <student>
+      <id>21071A12A6</id>
+      <name>NARA GREESHMITHA</name>
+    </student>
+    <student>
+      <id>21071A12A7</id>
+      <name>NIHARIKA PATIBANDLA</name>
+    </student>
+    <student>
+      <id>21071A12A8</id>
+      <name>NIMMALA SIDDHARTH REDDY</name>
+    </student>
+    <student>
+      <id>21071A12A9</id>
+      <name>NUKALA ANJAN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A12B0</id>
+      <name>P VIVEK</name>
+    </student>
+    <student>
+      <id>21071A12B1</id>
+      <name>PENDYALA RADHA MADHAVI</name>
+    </student>
+    <student>
+      <id>21071A12B2</id>
+      <name>PETA SAI AKAANKSHA</name>
+    </student>
+    <student>
+      <id>21071A12B3</id>
+      <name>PRAVAR PERA</name>
+    </student>
+    <student>
+      <id>21071A12B4</id>
+      <name>PUPPALA CHANDU</name>
+    </student>
+    <student>
+      <id>21071A12B5</id>
+      <name>RAPARTHI VECHAN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A12B6</id>
+      <name>SABBASANI ASHOK KUMAR REDDY</name>
+    </student>
+    <student>
+      <id>21071A12B7</id>
+      <name>SHREE RAM CHANDRA V</name>
+    </student>
+    <student>
+      <id>21071A12B8</id>
+      <name>SINGAM POOJASIRI</name>
+    </student>
+    <student>
+      <id>21071A12B9</id>
+      <name>SRI SWAPNIKA DODLA</name>
+    </student>
+    <student>
+      <id>21071A12C0</id>
+      <name>SRINIBHA SRIKANTH</name>
+    </student>
+    <student>
+      <id>21071A12C1</id>
+      <name>SRIRAMADASU AASHRITH</name>
+    </student>
+    <student>
+      <id>21071A12C2</id>
+      <name>SURAPANENI JAYANTH</name>
+    </student>
+    <student>
+      <id>21071A12C3</id>
+      <name>SUSHIL VEMURI</name>
+    </student>
+    <student>
+      <id>21071A12C4</id>
+      <name>TARUN CHOWDAM</name>
+    </student>
+    <student>
+      <id>21071A12C5</id>
+      <name>TEEGALA PRAHARSHA</name>
+    </student>
+    <student>
+      <id>21071A12C6</id>
+      <name>THADAGONDA AISHWARYA</name>
+    </student>
+    <student>
+      <id>21071A12C7</id>
+      <name>TUMMAPUDI AJAY</name>
+    </student>
+    <student>
+      <id>21071A12C8</id>
+      <name>VANGARI SAISIDDHARTHA</name>
+    </student>
+    <student>
+      <id>21071A12C9</id>
+      <name>VEDANTAM NIKHITA</name>
+    </student>
+    <student>
+      <id>21071A12D0</id>
+      <name>YAMSANI SAHITHI</name>
+    </student>
+  </section>
+  <section id='C'>
+    <student>
+      <id>21071A12D1</id>
+      <name>Badavath Ajay Nayak</name>
+    </student>
+    <student>
+      <id>21071A12D2</id>
+      <name>BADDAM NANDITHA REDDY</name>
+    </student>
+    <student>
+      <id>21071A12D3</id>
+      <name>CHALLA VYSHNAVI REDDY</name>
+    </student>
+    <student>
+      <id>21071A12D4</id>
+      <name>CHINTALAPUDI PARDHA SARADHI</name>
+    </student>
+    <student>
+      <id>21071A12D5</id>
+      <name>CHIRRAPU CHANDANA REDDY</name>
+    </student>
+    <student>
+      <id>21071A12D6</id>
+      <name>CHITLA RAINY SANDILYA</name>
+    </student>
+    <student>
+      <id>21071A12D7</id>
+      <name>CHITTI SONIKA REDDY</name>
+    </student>
+    <student>
+      <id>21071A12D8</id>
+      <name>CHOLLETI ANUSHRITHA</name>
+    </student>
+    <student>
+      <id>21071A12D9</id>
+      <name>D VENKATA RAMANA</name>
+    </student>
+    <student>
+      <id>21071A12E0</id>
+      <name>DASARI SASI SUYASH</name>
+    </student>
+    <student>
+      <id>21071A12E1</id>
+      <name>DHARAVATH ANUSHA</name>
+    </student>
+    <student>
+      <id>21071A12E2</id>
+      <name>DONEPUDI SRI VIKASINI</name>
+    </student>
+    <student>
+      <id>21071A12E3</id>
+      <name>GAJAM PAVAN</name>
+    </student>
+    <student>
+      <id>21071A12E4</id>
+      <name>GANDHALA VISHNUPRIYA</name>
+    </student>
+    <student>
+      <id>21071A12E5</id>
+      <name>GOLI SACHIN SREEKAR</name>
+    </student>
+    <student>
+      <id>21071A12E6</id>
+      <name>GUNTHA SHRAVANI</name>
+    </student>
+    <student>
+      <id>21071A12E7</id>
+      <name>GUTHIKONDA KARTHIKEYA REDDY</name>
+    </student>
+    <student>
+      <id>21071A12E8</id>
+      <name>IRUKULLA PHANEENDRA BABU</name>
+    </student>
+    <student>
+      <id>21071A12E9</id>
+      <name>JADI JAHNAVI</name>
+    </student>
+    <student>
+      <id>21071A12F0</id>
+      <name>JALDA RAJESH</name>
+    </student>
+    <student>
+      <id>21071A12F1</id>
+      <name>KAMBHAMPATI SAI HARSHA VARDHAN</name>
+    </student>
+    <student>
+      <id>21071A12F2</id>
+      <name>KATHUROJU SHASHANK</name>
+    </student>
+    <student>
+      <id>21071A12F3</id>
+      <name>KATTA AMRUTH CHARAN REDDY</name>
+    </student>
+    <student>
+      <id>21071A12F4</id>
+      <name>KAVITI TANUJA</name>
+    </student>
+    <student>
+      <id>21071A12F5</id>
+      <name>KODARU JAYANTH</name>
+    </student>
+    <student>
+      <id>21071A12F6</id>
+      <name>KODATI BHUVANA</name>
+    </student>
+    <student>
+      <id>21071A12F7</id>
+      <name>KOMMA VISHAL</name>
+    </student>
+    <student>
+      <id>21071A12F8</id>
+      <name>KORAKOPPU SAIKUMAR</name>
+    </student>
+    <student>
+      <id>21071A12F9</id>
+      <name>KURAPATI SHANMUKHI</name>
+    </student>
+    <student>
+      <id>21071A12G0</id>
+      <name>L SUDHAMSH</name>
+    </student>
+    <student>
+      <id>21071A12G1</id>
+      <name>LALITHA BHAVANA MADDI</name>
+    </student>
+    <student>
+      <id>21071A12G2</id>
+      <name>MADALA PRANEETHA</name>
+    </student>
+    <student>
+      <id>21071A12G3</id>
+      <name>MADIREDDY HARSHITH REDDY</name>
+    </student>
+    <student>
+      <id>21071A12G4</id>
+      <name>MAGATA SRINIVAS ROHAN</name>
+    </student>
+    <student>
+      <id>21071A12G5</id>
+      <name>MANDEPUDI PRADEEP</name>
+    </student>
+    <student>
+      <id>21071A12G6</id>
+      <name>MATLI SHIVACHARANI REDDY</name>
+    </student>
+    <student>
+      <id>21071A12G7</id>
+      <name>MIRIYALA V VENKATA SAI SANTOSH</name>
+    </student>
+    <student>
+      <id>21071A12G8</id>
+      <name>MOHAMMAD KHADIM HUSSAIN</name>
+    </student>
+    <student>
+      <id>21071A12G9</id>
+      <name>MUDUDUDLA SAIRAM</name>
+    </student>
+    <student>
+      <id>21071A12H0</id>
+      <name>NASANI VAMSHI</name>
+    </student>
+    <student>
+      <id>21071A12H1</id>
+      <name>NEELA VARUN GOPAL</name>
+    </student>
+    <student>
+      <id>21071A12H2</id>
+      <name>PEDARLA SHIVANI CHOWDARY</name>
+    </student>
+    <student>
+      <id>21071A12H3</id>
+      <name>PINUMALLA SIRICHANDANA</name>
+    </student>
+    <student>
+      <id>21071A12H4</id>
+      <name>POTLURI SRINIJA</name>
+    </student>
+    <student>
+      <id>21071A12H5</id>
+      <name>RACHAWAR SAI ADITHYA</name>
+    </student>
+    <student>
+      <id>21071A12H6</id>
+      <name>RAMAVATH PRAVEEN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A12H7</id>
+      <name>ROLLA PAVANI</name>
+    </student>
+    <student>
+      <id>21071A12H8</id>
+      <name>S NANDINI</name>
+    </student>
+    <student>
+      <id>21071A12H9</id>
+      <name>SAMPANGI CHARAN TEJA</name>
+    </student>
+    <student>
+      <id>21071A12J0</id>
+      <name>SAMSHRITA BOBBILI</name>
+    </student>
+    <student>
+      <id>21071A12J1</id>
+      <name>SANGAM HARSHITHA</name>
+    </student>
+    <student>
+      <id>21071A12J2</id>
+      <name>SATHWIK KASUKURTHI</name>
+    </student>
+    <student>
+      <id>21071A12J3</id>
+      <name>SHAIK ASHRAFULLA</name>
+    </student>
+    <student>
+      <id>21071A12J4</id>
+      <name>SHAIK NASHEERA</name>
+    </student>
+    <student>
+      <id>21071A12J5</id>
+      <name>SHAIK RIZWANA</name>
+    </student>
+    <student>
+      <id>21071A12J6</id>
+      <name>SHAIK SHABANA</name>
+    </student>
+    <student>
+      <id>21071A12J7</id>
+      <name>SISIR VARMA CHINTALPATI</name>
+    </student>
+    <student>
+      <id>21071A12J8</id>
+      <name>SOLI SNEHITHA</name>
+    </student>
+    <student>
+      <id>21071A12J9</id>
+      <name>SURINENI SANTOSH KUMAR</name>
+    </student>
+    <student>
+      <id>21071A12K0</id>
+      <name>THIRUNAHARI MANITEJAS</name>
+    </student>
+    <student>
+      <id>21071A12K1</id>
+      <name>V NIDHI REDDY</name>
+    </student>
+    <student>
+      <id>21071A12K2</id>
+      <name>VADLAMUDI HAASWITHA</name>
+    </student>
+    <student>
+      <id>21071A12K3</id>
+      <name>VAKKAL VARSHITHA</name>
+    </student>
+    <student>
+      <id>21071A12K4</id>
+      <name>VANKAM ADITHYA</name>
+    </student>
+  </section>
+</branch>
+<branch id='ME' name='Mechanical Engineering'>
+  <section id='A'>
+    <student>
+      <id>21071A0301</id>
+      <name>AENUGU VIVEK REDDY</name>
+    </student>
+    <student>
+      <id>21071A0302</id>
+      <name>ALETI THARUN REDDY</name>
+    </student>
+    <student>
+      <id>21071A0303</id>
+      <name>AMARESHAM ANANDAVARDHAN</name>
+    </student>
+    <student>
+      <id>21071A0304</id>
+      <name>APPAGARI RAHUL KUMAR REDDY</name>
+    </student>
+    <student>
+      <id>21071A0305</id>
+      <name>APPIKATLA MONIKA</name>
+    </student>
+    <student>
+      <id>21071A0306</id>
+      <name>AYUSH SAINI</name>
+    </student>
+    <student>
+      <id>21071A0307</id>
+      <name>AZMEERA RAHUL</name>
+    </student>
+    <student>
+      <id>21071A0308</id>
+      <name>BANOTH OM PRAKASH NAIK</name>
+    </student>
+    <student>
+      <id>21071A0309</id>
+      <name>BANOTHU SAIDEEPAK</name>
+    </student>
+    <student>
+      <id>21071A0310</id>
+      <name>BANOTHU VENKATESH</name>
+    </student>
+    <student>
+      <id>21071A0311</id>
+      <name>BANOTHU VIVEK</name>
+    </student>
+    <student>
+      <id>21071A0312</id>
+      <name>BEJAWADA NAVEEN RATHAN</name>
+    </student>
+    <student>
+      <id>21071A0313</id>
+      <name>BHAVIK S BHAGAWATI</name>
+    </student>
+    <student>
+      <id>21071A0314</id>
+      <name>BHOOPATHI THARUN TEJA</name>
+    </student>
+    <student>
+      <id>21071A0315</id>
+      <name>BVC KARTHIK</name>
+    </student>
+    <student>
+      <id>21071A0316</id>
+      <name>C MOURYA HARSHA VARDHAN REDDY</name>
+    </student>
+    <student>
+      <id>21071A0317</id>
+      <name>CHATAKONDA SUJITH KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0318</id>
+      <name>CHINNABATHINI PAVITHRA</name>
+    </student>
+    <student>
+      <id>21071A0319</id>
+      <name>CHINTHALA VAMSHI KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0320</id>
+      <name>CHITTURY JOHN LIVING STONE</name>
+    </student>
+    <student>
+      <id>21071A0321</id>
+      <name>DASOJU VAISHNAVI</name>
+    </student>
+    <student>
+      <id>21071A0322</id>
+      <name>DOMMETI SRIJA</name>
+    </student>
+    <student>
+      <id>21071A0323</id>
+      <name>ESLAVATH CHANDU</name>
+    </student>
+    <student>
+      <id>21071A0324</id>
+      <name>GANAMALA SHASHI KARAN KARTHIKEYA</name>
+    </student>
+    <student>
+      <id>21071A0325</id>
+      <name>GANDLA ARUN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0326</id>
+      <name>GAUTAMI GUNDAVARAPU</name>
+    </student>
+    <student>
+      <id>21071A0327</id>
+      <name>GOLLA SAI KIRAN</name>
+    </student>
+    <student>
+      <id>21071A0328</id>
+      <name>GUGULOTHU RAKESH NAYAK</name>
+    </student>
+    <student>
+      <id>21071A0329</id>
+      <name>GUNJI NIVAS</name>
+    </student>
+    <student>
+      <id>21071A0330</id>
+      <name>JAGARLAMUDI KUSHAL SRI SAI</name>
+    </student>
+    <student>
+      <id>21071A0331</id>
+      <name>KANTHALA UDAYKIRAN REDDY</name>
+    </student>
+    <student>
+      <id>21071A0332</id>
+      <name>KARANAM AMAN SRI DATTA</name>
+    </student>
+    <student>
+      <id>21071A0333</id>
+      <name>KASPA SREEKHAR</name>
+    </student>
+    <student>
+      <id>21071A0334</id>
+      <name>KATUKOJWALA SHIVA SATHVIK</name>
+    </student>
+    <student>
+      <id>21071A0335</id>
+      <name>KHANDAVALLI SAMUEL</name>
+    </student>
+    <student>
+      <id>21071A0336</id>
+      <name>KUCHANAPELLI MARUTHI KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0337</id>
+      <name>M SAI SANTOSH PRAVAL GOUD</name>
+    </student>
+    <student>
+      <id>21071A0338</id>
+      <name>MADA SAHASYA</name>
+    </student>
+    <student>
+      <id>21071A0339</id>
+      <name>MADIPOJU AJAY</name>
+    </student>
+    <student>
+      <id>21071A0340</id>
+      <name>MOHAMMAD SHAHERAZ</name>
+    </student>
+    <student>
+      <id>21071A0341</id>
+      <name>MOSAM OMKAR ESHWAR</name>
+    </student>
+    <student>
+      <id>21071A0342</id>
+      <name>N SIRIVENNELA</name>
+    </student>
+    <student>
+      <id>21071A0343</id>
+      <name>NITHIN KRISHNA N</name>
+    </student>
+    <student>
+      <id>21071A0344</id>
+      <name>PALLE PRAVEEN KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0345</id>
+      <name>PATARLA SAI PRAVEEN</name>
+    </student>
+    <student>
+      <id>21071A0346</id>
+      <name>PATTAMSETTI NITYASRI</name>
+    </student>
+    <student>
+      <id>21071A0347</id>
+      <name>PAVAN KUMAR KADARI</name>
+    </student>
+    <student>
+      <id>21071A0348</id>
+      <name>PEDDI RAMMADHAV REDDY</name>
+    </student>
+    <student>
+      <id>21071A0349</id>
+      <name>PUNNAM LOKESH</name>
+    </student>
+    <student>
+      <id>21071A0350</id>
+      <name>PUTLLA NANDA KISHORE</name>
+    </student>
+    <student>
+      <id>21071A0351</id>
+      <name>SAMA MADHUSUDAN</name>
+    </student>
+    <student>
+      <id>21071A0352</id>
+      <name>SARANSH KELA</name>
+    </student>
+    <student>
+      <id>21071A0353</id>
+      <name>SOHANA MADHURIMA TAMMISETTI</name>
+    </student>
+    <student>
+      <id>21071A0354</id>
+      <name>SRIYA BANDARI</name>
+    </student>
+    <student>
+      <id>21071A0355</id>
+      <name>SUNKARA MOHIT NANDAN</name>
+    </student>
+    <student>
+      <id>21071A0356</id>
+      <name>SUNKARA TARUN</name>
+    </student>
+    <student>
+      <id>21071A0357</id>
+      <name>SURYADEVARA BALAJI</name>
+    </student>
+    <student>
+      <id>21071A0358</id>
+      <name>TAMMALI PRAMEETH KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0359</id>
+      <name>TAPETI MAHESH REDDY</name>
+    </student>
+    <student>
+      <id>21071A0360</id>
+      <name>TUSHAR MAHAJAN</name>
+    </student>
+    <student>
+      <id>21071A0361</id>
+      <name>UMMADISHETTY SAI MANIKANTA</name>
+    </student>
+    <student>
+      <id>21071A0362</id>
+      <name>V A ADITYA VENKATA REDDY</name>
+    </student>
+    <student>
+      <id>21071A0363</id>
+      <name>VADTHYA NIKHIL RAM</name>
+    </student>
+    <student>
+      <id>21071A0365</id>
+      <name>VEMURI GIRI SAI TEJ</name>
+    </student>
+  </section>
+  <section id='B'>
+    <student>
+      <id>21071A0366</id>
+      <name>A ABHILASH</name>
+    </student>
+    <student>
+      <id>21071A0367</id>
+      <name>ANGOTH SRINU</name>
+    </student>
+    <student>
+      <id>21071A0368</id>
+      <name>ANKIT M NAIR</name>
+    </student>
+    <student>
+      <id>21071A0369</id>
+      <name>BAIRINENI RAGHAVENDRA</name>
+    </student>
+    <student>
+      <id>21071A0370</id>
+      <name>BASANGARI LAXMI NARASIMHA</name>
+    </student>
+    <student>
+      <id>21071A0371</id>
+      <name>BELDE SATVIK</name>
+    </student>
+    <student>
+      <id>21071A0372</id>
+      <name>BHUKYA ARUN NAIK</name>
+    </student>
+    <student>
+      <id>21071A0373</id>
+      <name>BHUKYA SRIKANTH</name>
+    </student>
+    <student>
+      <id>21071A0374</id>
+      <name>BIRUKURI SAI PAVAN</name>
+    </student>
+    <student>
+      <id>21071A0375</id>
+      <name>C ANAND KUMAR</name>
+    </student>
+    <student>
+      <id>21071A0376</id>
+      <name>CHARAN MADHASU</name>
+    </student>
+    <student>
+      <id>21071A0377</id>
+      <name>CHATTYPALLY SAI KIRAN</name>
+    </student>
+    <student>
+      <id>21071A0378</id>
+      <name>DASARI CHINMAI</name>
+    </student>
+    <student>
+      <id>21071A0379</id>
+      <name>DAVALA GEETIKA GLADYS</name>
+    </student>
+    <student>
+      <id>21071A0380</id>
+      <name>DHARAVATH PAVAN KARTHIK</name>
+    </student>
+    <student>
+      <id>21071A0381</id>
+      <name>DUGGEMPUDI YASHWANTH REDDY</name>
+    </student>
+    <student>
+      <id>21071A0382</id>
+      <name>ELICHETTY PRAKASH RAJ</name>
+    </student>
+    <student>
+      <id>21071A0383</id>
+      <name>GADDAMEDHI KUSUMA SRINIDHI</name>
+    </student>
+    <student>
+      <id>21071A0384</id>
+      <name>GOLLA SAI VAISHNAVI</name>
+    </student>
+    <student>
+      <id>21071A0385</id>
+      <name>GURRALA SUSHMA</name>
+    </student>
+    <student>
+      <id>21071A0386</id>
+      <name>J UTTEJ</name>
+    </student>
+    <student>
+      <id>21071A0387</id>
+      <name>JASSEM AL SALMAN</name>
+    </student>
+    <student>
+      <id>21071A0388</id>
+      <name>JELLA ARUN</name>
+    </student>
+    <student>
+      <id>21071A0389</id>
+      <name>KAKARA SAI SANDEEP</name>
+    </student>
+    <student>
+      <id>21071A0390</id>
+      <name>KANDURI SREENIDHI</name>
+    </student>
+    <student>
+      <id>21071A0391</id>
+      <name>KANEMENI AJITH REDDY</name>
+    </student>
+    <student>
+      <id>21071A0392</id>
+      <name>KESHAVAGARI NOSHWIT SIMHARAJU</name>
+    </student>
+    <student>
+      <id>21071A0393</id>
+      <name>KOTHAKAPU ADAMULLA ARJUN</name>
+    </student>
+    <student>
+      <id>21071A0394</id>
+      <name>KOTHAPALLY SOWMYA</name>
+    </student>
+    <student>
+      <id>21071A0395</id>
+      <name>KUDUMULA LOKESH</name>
+    </student>
+    <student>
+      <id>21071A0396</id>
+      <name>MAMIDI AJAY</name>
+    </student>
+    <student>
+      <id>21071A0397</id>
+      <name>MANDALI DHANUSH</name>
+    </student>
+    <student>
+      <id>21071A0398</id>
+      <name>MD SAYEEDUDDIN</name>
+    </student>
+    <student>
+      <id>21071A0399</id>
+      <name>MOHAMMAD REHAN SHEIK</name>
+    </student>
+    <student>
+      <id>21071A03A0</id>
+      <name>MOHAMMED KHAJA IMAADUDDIN</name>
+    </student>
+    <student>
+      <id>21071A03A1</id>
+      <name>MORE SAIVIKAS</name>
+    </student>
+    <student>
+      <id>21071A03A2</id>
+      <name>MUDAVATH SOUJANYA</name>
+    </student>
+    <student>
+      <id>21071A03A3</id>
+      <name>NAKKALA SRI VARDHAN</name>
+    </student>
+    <student>
+      <id>21071A03A4</id>
+      <name>NANDIKONDA MALLIKARJUN REDDY</name>
+    </student>
+    <student>
+      <id>21071A03A5</id>
+      <name>NARANI NANDA KISHOR</name>
+    </student>
+    <student>
+      <id>21071A03A6</id>
+      <name>NISHTHA PATTNAIK</name>
+    </student>
+    <student>
+      <id>21071A03A7</id>
+      <name>NUNAVATH KIRAN</name>
+    </student>
+    <student>
+      <id>21071A03A8</id>
+      <name>P VIGHNESH</name>
+    </student>
+    <student>
+      <id>21071A03A9</id>
+      <name>PABBA SRIVIDHYA</name>
+    </student>
+    <student>
+      <id>21071A03B0</id>
+      <name>PAMMI KARTHEKEYA REDDY</name>
+    </student>
+    <student>
+      <id>21071A03B1</id>
+      <name>PANDUREKHA SHASHI</name>
+    </student>
+    <student>
+      <id>21071A03B2</id>
+      <name>PANNATI SAI TEJA</name>
+    </student>
+    <student>
+      <id>21071A03B3</id>
+      <name>PATHIPAKA SAI TEJA</name>
+    </student>
+    <student>
+      <id>21071A03B4</id>
+      <name>PEDDIREDDY SAI HARSHITH REDDY</name>
+    </student>
+    <student>
+      <id>21071A03B5</id>
+      <name>PITTALA VIKRANTH KUMAR</name>
+    </student>
+    <student>
+      <id>21071A03B6</id>
+      <name>PRANEETH SHARMA PANTANGI</name>
+    </student>
+    <student>
+      <id>21071A03B7</id>
+      <name>PULLAMOLLA PRAKASH REDDY</name>
+    </student>
+    <student>
+      <id>21071A03B8</id>
+      <name>PUTTA HARI PRASAD</name>
+    </student>
+    <student>
+      <id>21071A03B9</id>
+      <name>RONDA SHOWMIC REDDY</name>
+    </student>
+    <student>
+      <id>21071A03C0</id>
+      <name>SARANGA SURESH</name>
+    </student>
+    <student>
+      <id>21071A03C1</id>
+      <name>SASI PREETHAM CHOWDARY MADDIPATI</name>
+    </student>
+    <student>
+      <id>21071A03C2</id>
+      <name>SIRICILLA MANOJ PRABHATH</name>
+    </student>
+    <student>
+      <id>21071A03C3</id>
+      <name>TELLABOINA RAJA SHEKAR</name>
+    </student>
+    <student>
+      <id>21071A03C4</id>
+      <name>UTUKURI ESHWAR RAM</name>
+    </student>
+    <student>
+      <id>21071A03C5</id>
+      <name>V HEMANTH SRI NAGASAI</name>
+    </student>
+    <student>
+      <id>21071A03C6</id>
+      <name>VANGALA SAI ADITYA</name>
+    </student>
+    <student>
+      <id>21071A03C7</id>
+      <name>VANGURI LIKHITH</name>
+    </student>
+    <student>
+      <id>21071A03C8</id>
+      <name>VIBHUDI THIRUMALESH</name>
+    </student>
+    <student>
+      <id>21071A03C9</id>
+      <name>YENKATALA RAHUL</name>
+    </student>
+  </section>
+</branch>
+</branches>

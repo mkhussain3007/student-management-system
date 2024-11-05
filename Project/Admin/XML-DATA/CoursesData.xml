@@ -1,0 +1,1745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<branches>
+<branch id='CE'>
+  <semester id='1'>
+    <course>
+      <courseId>CEA19ES1CS01</courseId>
+      <courseName>Programming through C</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19BS2CH01</courseId>
+      <courseName>Engineering Chemistry Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19BS1CH01</courseId>
+      <courseName>Engineering Chemistry</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19BS1MT01</courseId>
+      <courseName>Calculus for Engineers</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19HS2EN01</courseId>
+      <courseName>English Language Communication Skills Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19HS1EN01</courseId>
+      <courseName>English</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19ES3CE01</courseId>
+      <courseName>Engineering Drawing for Civil Engineers</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19ES2ME01</courseId>
+      <courseName>Workshop Practices</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19ES2CS01</courseId>
+      <courseName>Programming through C Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='2'>
+    <course>
+      <courseId>CEA19BS2PH01</courseId>
+      <courseName>Applied Physics Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19ES1CE01</courseId>
+      <courseName>Engineering Mechanics: Statics and Dynamics</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19BS1PH01</courseId>
+      <courseName>Applied Physics</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PW4CE01</courseId>
+      <courseName>Design Sensitisation</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19BS1MT04</courseId>
+      <courseName>Linear Algebra and Advanced Calculus</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19ES2CS02</courseId>
+      <courseName>Data Structures through C Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19ES1ME02</courseId>
+      <courseName>Elements of Mechanical Engineering</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19ES1CS02</courseId>
+      <courseName>Data Structures through C</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='3'>
+    <course>
+      <courseId>CEA19PC2CE02</courseId>
+      <courseName>Surveying Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC2CE01</courseId>
+      <courseName>Strength of Materials Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19BS1MT12</courseId>
+      <courseName>Probability, Statistics and Time Series</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC3CE01</courseId>
+      <courseName>Computer Aided Civil Engineering Drawing</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC1CE04</courseId>
+      <courseName>Surveying and Geomatics</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC1CE03</courseId>
+      <courseName>Building Materials, Construction and Planning</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC1CE02</courseId>
+      <courseName>Fluid Mechanics</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC1CE01</courseId>
+      <courseName>Strength of Materials - I</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='4'>
+    <course>
+      <courseId>CEA19PC2CE04</courseId>
+      <courseName>Concrete Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC2CE03</courseId>
+      <courseName>Fluid Mechanics and Hydraulic Machines Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC1CE08</courseId>
+      <courseName>Hydraulic Engineering and Hydraulic Machines</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC1CE07</courseId>
+      <courseName>Concrete Technology</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19MN6HS03</courseId>
+      <courseName>Gender Sensitization</courseName>
+      <credits>0</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC1CE06</courseId>
+      <courseName>Structural Analysis</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19ES1EE07</courseId>
+      <courseName>Elements of Electrical and Electronics Engineering</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19ES2EE06</courseId>
+      <courseName>Elements of Electrical and Electronics Engineering Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC1CE05</courseId>
+      <courseName>Strength of Materials - II</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='5'>
+    <course>
+      <courseId>CEA19PC1CE10</courseId>
+      <courseName>Engineering Hydrology</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC1CE11</courseId>
+      <courseName>Transportation Engineering</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PW4CE02</courseId>
+      <courseName>Internship</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC2CE05</courseId>
+      <courseName>Engineering Geology laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC2CE06</courseId>
+      <courseName>Transportation Engineering Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEPE-I</courseId>
+      <courseName>Professional Elective - I</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC1CE12</courseId>
+      <courseName>Engineering Geology</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEOE-I</courseId>
+      <courseName>Open Elective - I</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CEA19PC1CE09</courseId>
+      <courseName>Design of Reinforced Concrete Structures</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+</branch>
+<branch id='CSE'>
+  <semester id='1'>
+    <course>
+      <courseId>CSEA19BS1PH02</courseId>
+      <courseName>Engineering Physics</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19ES2EE01</courseId>
+      <courseName>Basic Electrical Engineering Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19BS2PH02</courseId>
+      <courseName>Engineering Physics Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19ES3ME02</courseId>
+      <courseName>Engineering Drawing</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PW4CS01</courseId>
+      <courseName>Design Sensitization</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19ES2CS01</courseId>
+      <courseName>Programming through C Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19ES1EE01</courseId>
+      <courseName>Basics of Electrical Energy for Engineers</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19ES1CS01</courseId>
+      <courseName>Programming through C</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19BS1MT01</courseId>
+      <courseName>Calculus for Engineers</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='2'>
+    <course>
+      <courseId>CSEA19HS2EN01</courseId>
+      <courseName>English Language Communication Skills Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19HS1EN01</courseId>
+      <courseName>English</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19BS1CH01</courseId>
+      <courseName>Engineering Chemistry</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19ES2ME01</courseId>
+      <courseName>Workshop Practices</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19ES2IT01</courseId>
+      <courseName>Data Structures Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19BS2CH01</courseId>
+      <courseName>Engineering Chemistry Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19ES1IT01</courseId>
+      <courseName>Data Structures</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19BS1MT04</courseId>
+      <courseName>Linear Algebra and Advanced Calculus</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19BS1MT05</courseId>
+      <courseName>Statistical Methods for Data Analysis</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='3'>
+    <course>
+      <courseId>CSEA19PC1CS01</courseId>
+      <courseName>Digital Logic Design</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC2CS01</courseId>
+      <courseName>Database Management Systems Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC1CS02</courseId>
+      <courseName>Mathematical Foundations for Computer Science</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19MN6HS02</courseId>
+      <courseName>Environmental Science</courseName>
+      <credits>0</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC2IT02</courseId>
+      <courseName>Python Programming Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC2IT01</courseId>
+      <courseName>Object Oriented Programming through C++ Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC1CS03</courseId>
+      <courseName>Design and Analysis of Algorithms</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC1CS04</courseId>
+      <courseName>Database Management Systems</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC1IT01</courseId>
+      <courseName>Object Oriented Programming through C++</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='4'>
+    <course>
+      <courseId>CSEA19PC1CS06</courseId>
+      <courseName>Software Engineering</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC2IT03</courseId>
+      <courseName>Java Programming Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC2CS02</courseId>
+      <courseName>Software Engineering Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19HS1MG02</courseId>
+      <courseName>Engineering Economics and Accountancy</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC1CS05</courseId>
+      <courseName>Formal Languages and Automata Theory</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19BS1MT11</courseId>
+      <courseName>Probability, Statistics and Queuing Theory</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC1IT02</courseId>
+      <courseName>Java Programming</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC1IT03</courseId>
+      <courseName>Computer Organization</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='5'>
+    <course>
+      <courseId>CSEA19PC2IT04</courseId>
+      <courseName>Operating Systems Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PW4CS03</courseId>
+      <courseName>Design Thinking</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEPE-I</courseId>
+      <courseName>Professional Elective - I</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEOE-I</courseId>
+      <courseName>Open Elective - I</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC2CS03</courseId>
+      <courseName>Computer Networks and Compiler Design Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19MN6HS03</courseId>
+      <courseName>Gender Sensitization</courseName>
+      <credits>0</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19HS2EN05</courseId>
+      <courseName>Advanced English Communication Skills Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC1CS07</courseId>
+      <courseName>Computer Networks</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC1CS08</courseId>
+      <courseName>Compiler Design</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PW4CS02</courseId>
+      <courseName>Internship</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>CSEA19PC1IT04</courseId>
+      <courseName>Operating Systems</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+</branch>
+<branch id='ECE'>
+  <semester id='1'>
+    <course>
+      <courseId>ECEA19ES1EE04</courseId>
+      <courseName>Circuit Theory</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19ES1CS01</courseId>
+      <courseName>Programming through C</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19BS1CH01</courseId>
+      <courseName>Engineering Chemistry</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19BS2CH01</courseId>
+      <courseName>Engineering Chemistry Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19HS2EN01</courseId>
+      <courseName>English Language Communication Skills Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19HS1EN01</courseId>
+      <courseName>English</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19BS1MT01</courseId>
+      <courseName>Calculus for Engineers</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19ES2ME01</courseId>
+      <courseName>Workshop Practices</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19ES2CS01</courseId>
+      <courseName>Programming through C Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='2'>
+    <course>
+      <courseId>ECEA19ES1IT01</courseId>
+      <courseName>Data Structures</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19ES1EE06</courseId>
+      <courseName>Basic Electrical Engineering</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19BS2PH02</courseId>
+      <courseName>Engineering Physics Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19BS1MT04</courseId>
+      <courseName>Linear Algebra and Advanced Calculus</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19BS1PH02</courseId>
+      <courseName>Engineering Physics</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19ES3ME02</courseId>
+      <courseName>Engineering Drawing</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19ES2IT01</courseId>
+      <courseName>Data Structures Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19ES2EE04</courseId>
+      <courseName>Electrical Engineering Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PW4EC01</courseId>
+      <courseName>Design Sensitization</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='3'>
+    <course>
+      <courseId>ECEA19PC1EC02</courseId>
+      <courseName>Electronic Devices and Circuits</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19BS1MT08</courseId>
+      <courseName>Complex Analysis and Special Functions</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19MN6HS03</courseId>
+      <courseName>Gender Sensitization</courseName>
+      <credits>0</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC1EC01</courseId>
+      <courseName>Probability Theory and Stochastic Processes</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC1EC03</courseId>
+      <courseName>Digital System Design</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC1EC04</courseId>
+      <courseName>Signals and Systems</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC2EC01</courseId>
+      <courseName>Electronic Devices and Circuits Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC2EC02</courseId>
+      <courseName>Basic Simulation Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC2EC03</courseId>
+      <courseName>Digital System Design Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='4'>
+    <course>
+      <courseId>ECEA19PC1EE05</courseId>
+      <courseName>Control Systems</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC2EC04</courseId>
+      <courseName>Analog and Digital Communication Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC2EC05</courseId>
+      <courseName>Analog Circuits Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC2IT02</courseId>
+      <courseName>Python Programming Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC1EC07</courseId>
+      <courseName>EM Waves and Transmission Lines</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC1IT03</courseId>
+      <courseName>Computer Organisation</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC1EC06</courseId>
+      <courseName>Analog Circuits</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC1EC05</courseId>
+      <courseName>Analog and Digital Communications</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='5'>
+    <course>
+      <courseId>ECEA19PC1EC09</courseId>
+      <courseName>Digital Signal Processing</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC1EC10</courseId>
+      <courseName>Microprocessors and Microcontrollers</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC2EC06</courseId>
+      <courseName>Digital Signal Processing Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC2EC07</courseId>
+      <courseName>Microprocessors and Microcontrollers Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PC1EC08</courseId>
+      <courseName>Antennas and Wave Propagation</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19PW4EC02</courseId>
+      <courseName>Internship</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEOE-I</courseId>
+      <courseName>Open Elective - I</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19HS2EN05</courseId>
+      <courseName>Advanced English Communication Skills Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEA19MN6HS02</courseId>
+      <courseName>Environmental Sciences</courseName>
+      <credits>0</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>ECEPE-I</courseId>
+      <courseName>Professional Elective - I</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+</branch>
+<branch id='EEE'>
+  <semester id='1'>
+    <course>
+      <courseId>EEEA19BS1CH01</courseId>
+      <courseName>Engineering Chemistry</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19BS1MT01</courseId>
+      <courseName>Calculus for Engineers</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19HS1EN01</courseId>
+      <courseName>English</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19HS2EN01</courseId>
+      <courseName>English Language Communication Skills Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19ES2ME01</courseId>
+      <courseName>Workshop Practices</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19BS2CH01</courseId>
+      <courseName>Engineering Chemistry Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19ES1CS01</courseId>
+      <courseName>Programming through C</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19ES1EE04</courseId>
+      <courseName>Circuit Theory</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19ES2CS01</courseId>
+      <courseName>Programming through C Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='2'>
+    <course>
+      <courseId>EEEA19BS1MT04</courseId>
+      <courseName>Linear Algebra and Advanced Calculus</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19ES1CS02</courseId>
+      <courseName>Data Structures through C</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19ES2CS02</courseId>
+      <courseName>Data Structures through C Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19ES2EE05</courseId>
+      <courseName>Network Analysis Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19BS1PH02</courseId>
+      <courseName>Engineering Physics</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19ES3ME02</courseId>
+      <courseName>Engineering Drawing</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19BS2PH02</courseId>
+      <courseName>Engineering Physics Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19ES1EE05</courseId>
+      <courseName>Network Analysis</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PW4EE01</courseId>
+      <courseName>Design Sensitization</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='3'>
+    <course>
+      <courseId>EEEA19BS1MT09</courseId>
+      <courseName>Complex Analysis and Transforms</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC2EC01</courseId>
+      <courseName>Electronic Devices and Circuits Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC1EE02</courseId>
+      <courseName>Electrical Machines – I</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC1EE01</courseId>
+      <courseName>Electromagnetic Fields</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC1EC03</courseId>
+      <courseName>Digital System Design</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC1EC02</courseId>
+      <courseName>Electronic Devices and Circuits</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC2EC15</courseId>
+      <courseName>Digital Logic Design Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC2EE01</courseId>
+      <courseName>Electrical Machines-I Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='4'>
+    <course>
+      <courseId>EEEA19PC1ME18</courseId>
+      <courseName>Fluid Mechanics and Hydraulic Machines</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC1EE04</courseId>
+      <courseName>Power Systems-I</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC1EE03</courseId>
+      <courseName>Electrical Machines – II</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19HS1MG02</courseId>
+      <courseName>Engineering Economics and Accountancy</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC1EC06</courseId>
+      <courseName>Analog Circuits</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19MN6HS03</courseId>
+      <courseName>Gender Sensitization</courseName>
+      <credits>0</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC2EC05</courseId>
+      <courseName>Analog Circuits Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC2EE02</courseId>
+      <courseName>Electrical Machines-II Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC2IT02</courseId>
+      <courseName>Python Programming Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='5'>
+    <course>
+      <courseId>EEEA19HS1MG04</courseId>
+      <courseName>Principles of Management and Organizational Behaviour</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19MN6HS02</courseId>
+      <courseName>Environmental Sciences</courseName>
+      <credits>0</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC2EE04</courseId>
+      <courseName>Power Electronics Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC1EE05</courseId>
+      <courseName>Control Systems</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC2EE03</courseId>
+      <courseName>Control Systems Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC1EE06</courseId>
+      <courseName>Power Systems – II</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PC1EE07</courseId>
+      <courseName>Power Electronics</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEA19PW4EE02</courseId>
+      <courseName>Internship</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEOE-I</courseId>
+      <courseName>Open Elective - I</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>EEEPE-I</courseId>
+      <courseName>Professional Elective - I</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+</branch>
+<branch id='IT'>
+  <semester id='1'>
+    <course>
+      <courseId>A19ES1EE01</courseId>
+      <courseName>	BASICS OF ELECTRICAL ENERGY FOR ENGINEERS</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19BS2PH02</courseId>
+      <courseName>	ENGINEERING PHYSICS LABORATORY</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19BS1PH02</courseId>
+      <courseName>ENGINEERING PHYSICS</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19ES3ME02</courseId>
+      <courseName>ENGINEERING DRAWING</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PW4IT01</courseId>
+      <courseName>	DESIGN SENSITIZATION</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19ES2CS01</courseId>
+      <courseName>PROGRAMMING THROUGH C LABORATORY</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19ES2EE01</courseId>
+      <courseName>	BASIC ELECTRICAL ENGINEERING LABORATORY</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19BS1MT01</courseId>
+      <courseName>CALCULUS FOR ENGINEERS</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19ES1CS01</courseId>
+      <courseName>	PROGRAMMING THROUGH C</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='2'>
+    <course>
+      <courseId>A19ES1IT01</courseId>
+      <courseName>DATA STRUCTURES</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19ES2IT01</courseId>
+      <courseName>DATA STRUCTURES LABORATORY</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19ES2ME01</courseId>
+      <courseName>WORKSHOP PRACTICES</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19HS1EN01</courseId>
+      <courseName>ENGLISH</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19HS2EN01</courseId>
+      <courseName>ENGLISH LANGUAGE COMMUNICATION SKILLS LABORATORY</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19BS1CH01</courseId>
+      <courseName>ENGINEERING CHEMISTRY</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19BS1MT04</courseId>
+      <courseName>LINEAR ALGEBRA AND ADVANCED CALCULUS</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19BS1MT05</courseId>
+      <courseName>STATISTICAL METHODS FOR DATA ANALYSIS</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19BS2CH01</courseId>
+      <courseName>ENGINEERING CHEMISTRY LABORATORY</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='3'>
+    <course>
+      <courseId>A19PC1CS04</courseId>
+      <courseName>DATABASE MANAGEMENT SYSTEMS</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC1CS03</courseId>
+      <courseName>DESIGN AND ANALYSIS OF ALGORITHMS</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC1CS02</courseId>
+      <courseName>MATHEMATICAL FOUNDATIONS FOR COMPUTER SCIENCE</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC1CS01</courseId>
+      <courseName>DIGITAL LOGIC DESIGN</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19MN6HS02</courseId>
+      <courseName>ENVIRONMENTAL SCIENCE</courseName>
+      <credits>0</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC1IT01</courseId>
+      <courseName>OBJECT ORIENTED PROGRAMMING THROUGH C++</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC2IT02</courseId>
+      <courseName>PYTHON PROGRAMMING LABORATORY</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC2IT01</courseId>
+      <courseName>OBJECT ORIENTED PROGRAMMING THROUGH C++ LABORATORY</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC2CS01</courseId>
+      <courseName>DATABASE MANAGEMENT SYSTEMS LABORATORY</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='4'>
+    <course>
+      <courseId>A19PC1CS06</courseId>
+      <courseName>SOFTWARE ENGINEERING</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC1CS05</courseId>
+      <courseName>FORMAL LANGUAGES AND AUTOMATA THEORY</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19HS1MG02</courseId>
+      <courseName>ENGINEERING ECONOMICS AND ACCOUNTANCY</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19BS1MT11</courseId>
+      <courseName>PROBABILITY, STATISTICS AND QUEUING THEORY</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC2IT03</courseId>
+      <courseName>JAVA PROGRAMMING LABORATORY</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC2CS02</courseId>
+      <courseName>SOFTWARE ENGINEERING LABORATORY</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC1IT03</courseId>
+      <courseName>COMPUTER ORGANIZATION</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC1IT02</courseId>
+      <courseName>JAVA PROGRAMMING</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='5'>
+    <course>
+      <courseId>A19PC1CS08</courseId>
+      <courseName>COMPILER DESIGN</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC1CS07</courseId>
+      <courseName>COMPUTER NETWORKS	</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PW4IT02</courseId>
+      <courseName>INTERNSHIP</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19OE1EC01</courseId>
+      <courseName>SENSORS TRANSDUCERS AND ACTUATORS</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19MN6HS03</courseId>
+      <courseName>GENDER SENSITIZATION</courseName>
+      <credits>0</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19HS2EN05</courseId>
+      <courseName>ADVANCED ENGLISH COMMUNICATION SKILLS LABORATORY</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PW4IT03</courseId>
+      <courseName>DESIGN THINKING</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PE1IT03</courseId>
+      <courseName>CYBER SECURITY</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC2IT04</courseId>
+      <courseName>	OPERATING SYSTEMS LABORATORY</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC2CS03</courseId>
+      <courseName>COMPUTER NETWORKS AND COMPILER DESIGN LABORATORY</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>A19PC1IT04</courseId>
+      <courseName>OPERATING SYSTEMS</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='6'>
+    <course>
+      <courseId>A19PE1IT05</courseId>
+      <courseName>Professional Elective - II</courseName>
+      <credits>3</credits>
+      <status>Running</status>
+    </course>
+    <course>
+      <courseId>A19PC1IT07</courseId>
+      <courseName>Linux Programming</courseName>
+      <credits>3</credits>
+      <status>Running</status>
+    </course>
+    <course>
+      <courseId>A19PC1IT05</courseId>
+      <courseName>Web Technologies</courseName>
+      <credits>3</credits>
+      <status>Running</status>
+    </course>
+    <course>
+      <courseId>A19PC2CS04</courseId>
+      <courseName>Machine Learning using Python Laboratory</courseName>
+      <credits>1</credits>
+      <status>Running</status>
+    </course>
+    <course>
+      <courseId>A19OE1EC02</courseId>
+      <courseName>Open Elective -II</courseName>
+      <credits>3</credits>
+      <status>Running</status>
+    </course>
+    <course>
+      <courseId>A19PC2IT05</courseId>
+      <courseName>Web Technologies Laboratory</courseName>
+      <credits>1</credits>
+      <status>Running</status>
+    </course>
+    <course>
+      <courseId>A19PC1CS10</courseId>
+      <courseName>Machine Learning</courseName>
+      <credits>3</credits>
+      <status>Running</status>
+    </course>
+    <course>
+      <courseId>A19PC1CS09</courseId>
+      <courseName>Artificial Intelligence</courseName>
+      <credits>3</credits>
+      <status>Running</status>
+    </course>
+  </semester>
+</branch>
+<branch id='ME'>
+  <semester id='1'>
+    <course>
+      <courseId>MEA19ES2EE02</courseId>
+      <courseName>Basic Electrical and Electronics Engineering Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19BS1MT01</courseId>
+      <courseName>Calculus for Engineers</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19ES3ME01</courseId>
+      <courseName>Engineering Graphics</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PW4ME01</courseId>
+      <courseName>Design Sensitization</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19BS1PH01</courseId>
+      <courseName>Applied Physics</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19BS2PH01</courseId>
+      <courseName>Applied Physics Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19ES1CS01</courseId>
+      <courseName>Programming through C</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19ES1EE02</courseId>
+      <courseName>Basic Electrical and Electronics Engineering</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19ES2CS01</courseId>
+      <courseName>Programming through C Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='2'>
+    <course>
+      <courseId>MEA19BS1CH01</courseId>
+      <courseName>Engineering Chemistry</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19BS1MT04</courseId>
+      <courseName>Linear Algebra and Advanced Calculus</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19ES2CS02</courseId>
+      <courseName>Data Structures through C Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19BS2CH01</courseId>
+      <courseName>Engineering Chemistry Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19ES2ME01</courseId>
+      <courseName>Workshop Practices</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19ES1ME01</courseId>
+      <courseName>Engineering Mechanics</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19HS1EN01</courseId>
+      <courseName>English</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19HS2EN01</courseId>
+      <courseName>English Language Communication Skills Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19ES1CS02</courseId>
+      <courseName>Data Structures through C</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='3'>
+    <course>
+      <courseId>MEA19BS1MT10</courseId>
+      <courseName>Partial Differential Equations and Numerical Methods</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC2ME02</courseId>
+      <courseName>Manufacturing Processes Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC1ME04</courseId>
+      <courseName>Thermodynamics</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC2ME01</courseId>
+      <courseName>Metallurgy and Materials Engineering Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC1ME01</courseId>
+      <courseName>Metallurgy and Materials Engineering</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC1ME02</courseId>
+      <courseName>Manufacturing Processes</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC1ME03</courseId>
+      <courseName>Fluid Mechanics and Machinery</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC2ME03</courseId>
+      <courseName>Fluid Mechanics and Machinery Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='4'>
+    <course>
+      <courseId>MEA19PC1ME06</courseId>
+      <courseName>Kinematics of Machinery</courseName>
+      <credits>4</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC1ME07</courseId>
+      <courseName>Machine Tools and Metrology</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC1ME08</courseId>
+      <courseName>Mechanics of Solids</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC1ME09</courseId>
+      <courseName>Instrumentation and Control Systems</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19MN6HS02</courseId>
+      <courseName>Environmental Science</courseName>
+      <credits>0</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC2ME04</courseId>
+      <courseName>Thermal Engineering Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC2ME05</courseId>
+      <courseName>Machine Tools and Measurements Laboratory</courseName>
+      <credits>2</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC2ME06</courseId>
+      <courseName>Mechanics of Solids Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC1ME05</courseId>
+      <courseName>Thermal Engineering</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+  <semester id='5'>
+    <course>
+      <courseId>MEA19PC1ME10</courseId>
+      <courseName>Automation and Robotics</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC1ME11</courseId>
+      <courseName>Dynamics of Machinery</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC1ME12</courseId>
+      <courseName>Turbomachinery</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19MN6HS03</courseId>
+      <courseName>Gender Sensitization</courseName>
+      <credits>0</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC2ME07</courseId>
+      <courseName>Automation and Robotics Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PC2ME08</courseId>
+      <courseName>Dynamics of Machinery Laboratory</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19HS1MG02</courseId>
+      <courseName>Engineering Economics and Accountancy</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEA19PW4ME02</courseId>
+      <courseName>Internship</courseName>
+      <credits>1</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEOE-I</courseId>
+      <courseName>Open Elective - I</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+    <course>
+      <courseId>MEPE-I</courseId>
+      <courseName>Professional Elective - I</courseName>
+      <credits>3</credits>
+      <status>Completed</status>
+    </course>
+  </semester>
+</branch>
+</branches>
